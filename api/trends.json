@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T10:53:24.535818+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-20T10:58:32.501915+08:00",
+  "total_titles_processed": 328,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         },
         {
           "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -37,8 +37,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         },
         {
           "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
@@ -48,8 +48,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         },
         {
           "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
@@ -59,8 +59,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         }
       ]
     },
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -87,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -98,8 +98,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         }
       ]
     },
@@ -115,8 +115,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -126,8 +126,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -137,8 +137,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         }
       ]
     },
@@ -154,19 +154,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时58分]"
         }
       ]
     }
