@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:23:07.159481+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2025-12-20T23:24:31.474486+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
@@ -41,33 +41,24 @@
           "url": "https://flash.jin10.com/detail/20251220214727409800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
           "url": "https://flash.jin10.com/detail/20251220214239757800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "特朗普提名特战副司令执掌南方司令部",
-          "url": "https://wallstreetcn.com/livenews/3024305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -77,11 +68,12 @@
             2,
             6,
             16,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 23时24分]"
         },
         {
           "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
@@ -89,11 +81,37 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时24分]"
+        },
+        {
+          "title": "特朗普提名特战副司令执掌南方司令部",
+          "url": "https://wallstreetcn.com/livenews/3024305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时23分]"
+          "time_info": "[22时23分 ~ 23时24分]"
+        },
+        {
+          "title": "特朗普为何推出史上最高金额对台军售",
+          "url": "https://www.toutiao.com/trending/7585013065943859238/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时24分]"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -107,18 +125,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时53分 ~ 12时32分]"
-        },
-        {
-          "title": "特朗普为何推出史上最高金额对台军售",
-          "url": "https://www.toutiao.com/trending/7585013065943859238/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时23分]"
         },
         {
           "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
@@ -168,7 +174,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -192,8 +198,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时25分 ~ 22时23分]"
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 23时24分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -216,8 +222,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时24分]"
+        },
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时49分 ~ 22时23分]"
+          "time_info": "[21时31分 ~ 23时24分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -233,16 +252,15 @@
           "time_info": "[10时53分 ~ 12时32分]"
         },
         {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     },
@@ -259,8 +277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时53分 ~ 22时23分]"
+          "appearance_count": 18,
+          "time_info": "[10时53分 ~ 23时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -273,8 +291,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时53分 ~ 22时23分]"
+          "appearance_count": 18,
+          "time_info": "[10时53分 ~ 23时24分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -286,8 +304,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时32分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[12时32分 ~ 23时24分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -396,11 +414,12 @@
             6,
             10,
             16,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 23时24分]"
         }
       ]
     }
