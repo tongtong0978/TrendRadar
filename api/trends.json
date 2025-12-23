@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T20:55:56.420815+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2025-12-23T21:40:16.417819+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 79,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时02分 ~ 20时55分]"
+          "appearance_count": 17,
+          "time_info": "[10时02分 ~ 21时40分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -50,11 +50,12 @@
             4,
             6,
             11,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 20时55分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 21时40分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -144,8 +145,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 20时55分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 21时40分]"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时30分 ~ 21时40分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -272,17 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时30分 ~ 20时55分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -472,6 +473,28 @@
           "time_info": "[02时38分 ~ 03时22分]"
         },
         {
+          "title": "特朗普的“PPT战列舰”有多魔幻",
+          "url": "https://www.toutiao.com/trending/7587001068819582510/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "专家：特朗普战列舰政治意义大于实战",
+          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
           "title": "美国总统特朗普：我们需要格陵兰岛，并非是为了矿产或石油，而是出于安全考虑。",
           "url": "https://wallstreetcn.com/livenews/3025172",
           "source": "华尔街见闻-快讯",
@@ -544,7 +567,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -599,7 +622,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -626,6 +649,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "美国司法部：爱泼斯坦案文件包含一些针对特朗普的不实指控。",
+          "url": "https://wallstreetcn.com/livenews/3025606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "美国总统特朗普：马杜罗想做什么，由他自己决定；马杜罗下台是明智之举。",
           "url": "https://flash.jin10.com/detail/20251223070109720800",
           "source": "金十数据",
@@ -646,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：核聚变企业高管对特朗普媒体科技集团(DJT.O)表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251223210625693800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美国总统特朗普：（谈柬埔寨-泰国关系）我认为我们在这方面控制得相当不错。",
@@ -1094,7 +1139,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -1113,6 +1158,18 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时30分 ~ 21时40分]"
+        },
+        {
           "title": "金价突破1400元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1126,16 +1183,16 @@
           "time_info": "[14时41分 ~ 17时31分]"
         },
         {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            12
+            22,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时30分 ~ 20时55分]"
+          "time_info": "[19时24分 ~ 21时40分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
@@ -1151,16 +1208,15 @@
           "time_info": "[02时38分 ~ 04时30分]"
         },
         {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
           "ranks": [
-            22,
-            21
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 20时55分]"
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "金价银价同日创新高",
@@ -1210,7 +1266,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
@@ -1317,6 +1373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "据伊拉克国家通讯社：伊拉克电力部表示，伊朗天然气供应已完全中断。",
+          "url": "https://flash.jin10.com/detail/20251223205832225800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         }
       ]
     },
@@ -1401,8 +1468,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时23分 ~ 20时55分]"
+          "appearance_count": 26,
+          "time_info": "[01时23分 ~ 21时40分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
