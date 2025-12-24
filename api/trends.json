@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T21:37:01.806293+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-12-24T22:26:06.435718+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时29分 ~ 21时37分]"
+          "appearance_count": 10,
+          "time_info": "[17时29分 ~ 22时26分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -40,11 +40,12 @@
             10,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时40分 ~ 21时37分]"
+          "appearance_count": 18,
+          "time_info": "[11时40分 ~ 22时26分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -140,6 +141,17 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 22时26分]"
+        },
+        {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
           "url": "https://www.cls.cn/detail/2238272",
           "source": "财联社热门",
@@ -197,17 +209,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -354,6 +355,19 @@
           "time_info": "[02时38分 ~ 03时22分]"
         },
         {
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 22时26分]"
+        },
+        {
           "title": "特朗普：和我持不同意见的人将永远无法成为美联储主席",
           "url": "https://wallstreetcn.com/livenews/3025716",
           "source": "华尔街见闻-快讯",
@@ -390,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时30分 ~ 14时41分]"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "美国总统特朗普：希望市场能在好消息时上涨，在坏消息时下跌。",
@@ -473,18 +498,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时22分]"
-        },
-        {
-          "title": "评论员：特朗普级战舰可能造不出来",
-          "url": "https://www.toutiao.com/trending/7587325146696781348/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "解析美军制造特朗普级战舰",
@@ -622,7 +635,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -656,20 +669,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3026248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-24）",
           "url": "https://flash.jin10.com/detail/20251224213043071800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时26分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.51%，报360.47点，美股早盘出现V形反转。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.23%，报2555.31点，美股（早盘）时段出现V形反转。",
@@ -778,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
@@ -929,7 +965,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "澳元兑美元上涨0.1%至0.6708，为2024年10月以来最高水平。 隔夜指数掉期显示， 澳洲联储加息两次的可能性超过70%，第一次加息最早可能在明年6月发生。",
@@ -1003,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 03时22分]"
+        },
+        {
+          "title": "初请数据公布后，现货黄金、美元指数DXY短线变动不大，美国股指期货保持稳定。",
+          "url": "https://flash.jin10.com/detail/20251224213209777800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
@@ -1010,6 +1057,20 @@
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
+        {
+          "title": "伊朗代表：感谢中俄",
+          "url": "https://www.douyin.com/hot/2345871",
+          "source": "抖音",
+          "ranks": [
+            17,
+            7,
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时26分]"
+        },
         {
           "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
           "url": "https://www.toutiao.com/trending/7587300342778301988/",
@@ -1022,19 +1083,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时36分 ~ 18时29分]"
-        },
-        {
-          "title": "伊朗代表：感谢中俄",
-          "url": "https://www.douyin.com/hot/2345871",
-          "source": "抖音",
-          "ranks": [
-            17,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 20时53分]"
         },
         {
           "title": "伊朗在安理会感谢中国",
@@ -1051,6 +1099,36 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
+          "url": "https://wallstreetcn.com/livenews/3025735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时24分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1062,8 +1140,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时01分 ~ 21时37分]"
+          "appearance_count": 19,
+          "time_info": "[10时01分 ~ 22时26分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -1111,25 +1189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
-          "url": "https://wallstreetcn.com/livenews/3025735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时24分]"
         }
       ]
     },
