@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-04T10:22:19.878686+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-01-04T12:14:32.708222+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 148,
+      "match_count": 159,
       "titles": [
-        {
-          "title": "持续一小时！美国空袭委内瑞拉，特朗普称抓获马杜罗及其夫人，即将召开发布会",
-          "url": "https://wallstreetcn.com/articles/3762477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时22分]"
-        },
         {
           "title": "特朗普称抓获马杜罗及其夫人并带离委内瑞拉",
           "url": "https://www.cls.cn/detail/2246656",
@@ -26,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时14分]"
+        },
+        {
+          "title": "持续一小时！美国空袭委内瑞拉，特朗普称抓获马杜罗及其夫人，即将召开发布会",
+          "url": "https://wallstreetcn.com/articles/3762477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "特朗普：美国将接管委内瑞拉事务",
@@ -68,6 +69,17 @@
           "time_info": "[00时31分 ~ 10时22分]"
         },
         {
+          "title": "特朗普举行发布会公布行动细节",
+          "url": "https://www.douyin.com/hot/2356525",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时22分 ~ 12时14分]"
+        },
+        {
           "title": "特朗普称抓获委内瑞拉总统马杜罗及其夫人并带离委内瑞拉",
           "url": "https://m.thepaper.cn/newsDetail_forward_32307263",
           "source": "澎湃新闻",
@@ -77,17 +89,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普举行发布会公布行动细节",
-          "url": "https://www.douyin.com/hot/2356525",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 10时22分]"
         },
         {
           "title": "特朗普绕开国会打击委内瑞拉，专家：或造成共和党内部分裂",
@@ -152,6 +153,18 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
+          "title": "美国“闪击”委内瑞拉：特朗普称将“管理”委内瑞拉直至实施“安全”过渡，深度介入石油产业",
+          "url": "https://wallstreetcn.com/articles/3762484",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时14分]"
+        },
+        {
           "title": "特朗普称美国将“管理”委内瑞拉",
           "url": "https://www.toutiao.com/trending/7591178453546995251/",
           "source": "今日头条",
@@ -172,8 +185,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "美官员称特朗普下令对委内瑞拉境内目标实施打击",
@@ -184,8 +197,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时14分]"
+        },
+        {
+          "title": "特朗普发布马杜罗在美舰照片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E8%88%B0%E7%85%A7%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[02时36分 ~ 12时14分]"
         },
         {
           "title": "特朗普公布马杜罗被抓捕后画面",
@@ -234,18 +260,6 @@
           "time_info": "[01时22分 ~ 10时22分]"
         },
         {
-          "title": "特朗普发布马杜罗在美舰照片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E8%88%B0%E7%85%A7%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时36分 ~ 10时22分]"
-        },
-        {
           "title": "特朗普",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -283,8 +297,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "特朗普：美将管理委直至安全过渡",
@@ -351,8 +365,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "特朗普：将深度参与委新总统人选选择",
@@ -390,11 +404,12 @@
           "ranks": [
             29,
             30,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 10时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "特朗普透露夜袭细节",
@@ -411,17 +426,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时36分 ~ 07时25分]"
-        },
-        {
-          "title": "美国“闪击”委内瑞拉：特朗普称将“管理”委内瑞拉直至实施“安全”过渡，深度介入石油产业",
-          "url": "https://wallstreetcn.com/articles/3762484",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 10时22分]"
         },
         {
           "title": "特朗普发布马杜罗在美舰照片",
@@ -455,11 +459,12 @@
           "url": "https://news.ifeng.com/c/8pdBfVSjayo",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 10时22分]"
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时14分]"
         },
         {
           "title": "美国总统特朗普：哥伦比亚总统Petro要小心了。",
@@ -700,6 +705,19 @@
           "time_info": "[00时31分 ~ 03时20分]"
         },
         {
+          "title": "美多名国会议员质疑特朗普政府对委军事行动合法性",
+          "url": "https://wallstreetcn.com/livenews/3030190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 12时14分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉反对派领导人玛丽亚·科丽娜·马查多愿意做必要的事情。",
           "url": "https://flash.jin10.com/detail/20260104012112121800",
           "source": "金十数据",
@@ -734,18 +752,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "美多名国会议员质疑特朗普政府对委军事行动合法性",
-          "url": "https://wallstreetcn.com/livenews/3030190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 10时22分]"
         },
         {
           "title": "美国总统特朗普：我们会得到相应的赔偿。",
@@ -880,6 +886,18 @@
           "time_info": "[02时36分 ~ 05时24分]"
         },
         {
+          "title": "特朗普称美国将管理委内瑞拉",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时14分]"
+        },
+        {
           "title": "特朗普称已抓获委内瑞拉总统",
           "url": "https://www.douyin.com/hot/2356212",
           "source": "抖音",
@@ -903,6 +921,53 @@
           "time_info": "[03时20分 ~ 05时24分]"
         },
         {
+          "title": "特朗普发布马杜罗在美国军舰上的照片",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307902",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时14分]"
+        },
+        {
+          "title": "特朗普自述“手背淤青”原因：连续25年服用大剂量阿司匹林",
+          "url": "https://www.cls.cn/detail/2246510",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时14分]"
+        },
+        {
+          "title": "特朗普：美国将组建一个团队管理委内瑞拉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32308670",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时14分]"
+        },
+        {
+          "title": "特朗普警告哥伦比亚总统小心点",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%B0%8F%E5%BF%83%E7%82%B9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时14分]"
+        },
+        {
           "title": "特朗普：已抓获委总统夫妇并带离",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E6%8A%93%E8%8E%B7%E5%A7%94%E6%80%BB%E7%BB%9F%E5%A4%AB%E5%A6%87%E5%B9%B6%E5%B8%A6%E7%A6%BB",
           "source": "百度热搜",
@@ -923,17 +988,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "特朗普称美国将管理委内瑞拉",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 10时22分]"
         },
         {
           "title": "美国总统特朗普：将确保那些被迫离开委内瑞拉的人得到妥善安置。",
@@ -970,6 +1024,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普否认委内瑞拉反对派掌权可能性 支持副总统",
+          "url": "https://flash.jin10.com/detail/20260104092811077800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 12时14分]"
         },
         {
           "title": "美国总统特朗普：我们将让石油像应有的方式那样流动。",
@@ -1032,6 +1098,18 @@
           "time_info": "[02时36分 ~ 03时20分]"
         },
         {
+          "title": "美媒：特朗普政府对委军事行动激怒民主党人，多名议员提议罢免特朗普",
+          "url": "https://wallstreetcn.com/livenews/3030203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 12时14分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：特朗普是和平总统。",
           "url": "https://flash.jin10.com/detail/20260104011553322800",
           "source": "金十数据",
@@ -1054,6 +1132,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时20分]"
+        },
+        {
+          "title": "美媒：特朗普政府对委军事行动激怒民主党人，多名议员提议罢免特朗普",
+          "url": "https://flash.jin10.com/detail/20260104091939101800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 12时14分]"
         },
         {
           "title": "美国总统特朗普：尚未与委内瑞拉反对派领导人玛丽亚·科丽娜·马查多取得联系，其在国内没有威望。",
@@ -1116,28 +1206,6 @@
           "time_info": "[01时22分 ~ 02时36分]"
         },
         {
-          "title": "特朗普发布马杜罗在美国军舰上的照片",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307902",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 10时22分]"
-        },
-        {
-          "title": "特朗普自述“手背淤青”原因：连续25年服用大剂量阿司匹林",
-          "url": "https://www.cls.cn/detail/2246510",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 10时22分]"
-        },
-        {
           "title": "美国总统特朗普：现在可能没必要针对委内瑞拉发动第二波袭击。",
           "url": "https://wallstreetcn.com/livenews/3030125",
           "source": "华尔街见闻-快讯",
@@ -1186,26 +1254,16 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
-          "title": "特朗普警告哥伦比亚总统小心点",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%B0%8F%E5%BF%83%E7%82%B9%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "特朗普威胁古巴、哥伦比亚",
+          "url": "https://wallstreetcn.com/livenews/3030192",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时21分 ~ 10时22分]"
-        },
-        {
-          "title": "特朗普：美国将组建一个团队管理委内瑞拉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32308670",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 10时22分]"
+          "time_info": "[10时22分 ~ 12时14分]"
         },
         {
           "title": "特朗普称美将深度介入委石油产业",
@@ -1241,17 +1299,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普否认委内瑞拉反对派掌权可能性 支持副总统",
-          "url": "https://flash.jin10.com/detail/20260104092811077800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
           "title": "美国总统特朗普将于十分钟后在海湖庄园举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260103235000002800",
           "source": "金十数据",
@@ -1263,28 +1310,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美媒：特朗普政府对委军事行动激怒民主党人，多名议员提议罢免特朗普",
-          "url": "https://wallstreetcn.com/livenews/3030203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "美媒：特朗普政府对委军事行动激怒民主党人，多名议员提议罢免特朗普",
-          "url": "https://flash.jin10.com/detail/20260104091939101800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
           "title": "美国众议长约翰逊宣称：（特朗普政府）在委内瑞拉的军事行动“是正当的”。 已经与国务卿卢比奥和“战争部长”Hegseth对话。",
           "url": "https://wallstreetcn.com/livenews/3030098",
           "source": "华尔街见闻-快讯",
@@ -1294,6 +1319,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "纽约市长：抓捕马杜罗是违法的战争行为，已致电特朗普表达反对意见",
+          "url": "https://wallstreetcn.com/livenews/3030215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "媒体：特朗普药不能停 到底啥毛病",
+          "url": "https://www.toutiao.com/trending/7591318616680382490/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "特朗普公布对委行动细节",
@@ -1316,6 +1363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "高市早苗准备到美国求特朗普撑腰，但日本可能被移出发达国家行列",
+          "url": "https://news.ifeng.com/c/8pdL68clJ3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "美国总统特朗普：我们知道马杜罗政权中的坏分子是谁，我们正在对付他们。",
@@ -1384,6 +1442,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "特朗普称美在西半球地位再不会被质疑",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9C%A8%E8%A5%BF%E5%8D%8A%E7%90%83%E5%9C%B0%E4%BD%8D%E5%86%8D%E4%B8%8D%E4%BC%9A%E8%A2%AB%E8%B4%A8%E7%96%91%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "美国国会官员透露，在特朗普政府对委内瑞拉境内发动陆地袭击之前，国会“八人帮”并未收到抓捕委内瑞拉总统马杜罗行动的通知。",
           "url": "https://flash.jin10.com/detail/20260104010748296800",
           "source": "金十数据",
@@ -1415,17 +1484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普威胁古巴、哥伦比亚",
-          "url": "https://wallstreetcn.com/livenews/3030192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
         },
         {
           "title": "特朗普：我们将向其他国家出售大量石油",
@@ -1516,6 +1574,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普将深度参与委内瑞拉总统人选",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E6%B7%B1%E5%BA%A6%E5%8F%82%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E4%BA%BA%E9%80%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "美国总统特朗普：我们将确保边境安全，并摧毁贩毒集团。",
           "url": "https://flash.jin10.com/detail/20260104005819878800",
           "source": "金十数据",
@@ -1549,6 +1618,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "特朗普威胁古巴哥伦比亚",
+          "url": "https://www.douyin.com/hot/2356597",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "特朗普称实时观看马杜罗被捕 行动部署“数量庞大”空中力量",
           "url": "https://wallstreetcn.com/livenews/3030086",
           "source": "华尔街见闻-快讯",
@@ -1571,6 +1651,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普透露夜袭细节",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "特朗普：对委军事行动使用了空中、陆地和海上力量",
           "url": "https://wallstreetcn.com/livenews/3030117",
           "source": "华尔街见闻-快讯",
@@ -1580,6 +1671,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普警告哥伦比亚总统“小心点”",
+          "url": "https://www.toutiao.com/trending/7590586556868984838/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "特朗普召开新闻发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AC%E5%BC%80%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "美国总统特朗普：马杜罗及其妻子现已在舰船上，即将前往纽约。",
@@ -1602,6 +1715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "活捉马杜罗 特朗普玩火",
+          "url": "https://www.toutiao.com/trending/7591324586650947082/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "特朗普称实时观看马杜罗被捕 行动部署“数量庞大”空中力量",
@@ -1659,6 +1783,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美多名议员提议罢免特朗普",
+          "url": "https://www.toutiao.com/trending/7590609285755895859/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "特朗普：美国将“管理”委内瑞拉直至实施“安全”过渡",
           "url": "https://flash.jin10.com/detail/20260104004536359800",
           "source": "金十数据",
@@ -1676,7 +1811,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -1761,7 +1896,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗这次全国性抗议会演变成政权更替吗？",
@@ -1774,6 +1909,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时31分 ~ 10时22分]"
+        },
+        {
+          "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
+          "url": "https://wallstreetcn.com/articles/3762481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时14分]"
         },
         {
           "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
@@ -1800,27 +1948,27 @@
           "time_info": "[05时24分 ~ 10时22分]"
         },
         {
-          "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
-          "url": "https://wallstreetcn.com/articles/3762481",
-          "source": "华尔街见闻",
+          "title": "伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”",
+          "url": "https://wallstreetcn.com/livenews/3030223",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 10时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "伊朗最高领袖誓言伊朗绝不屈服",
           "url": "https://www.toutiao.com/trending/7590405381375836169/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 10时22分]"
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时14分]"
         }
       ]
     },
@@ -1850,8 +1998,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -1864,19 +2012,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
           "url": "https://wallstreetcn.com/articles/3762476",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 10时22分]"
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时14分]"
         }
       ]
     },
