@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T14:48:14.852991+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-01-05T15:33:54.495045+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 14时48分]"
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 15时33分]"
+        },
+        {
+          "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
+          "url": "https://www.cls.cn/detail/2247429",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 15时33分]"
         },
         {
           "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
@@ -84,18 +99,32 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
-          "url": "https://www.cls.cn/detail/2247429",
-          "source": "财联社热门",
+          "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32315820",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
             10,
-            7,
-            5
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 14时48分]"
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 15时33分]"
+        },
+        {
+          "title": "特朗普威胁委代总统或付“沉重代价”",
+          "url": "https://www.toutiao.com/trending/7591475606379154985/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            14,
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 15时33分]"
         },
         {
           "title": "特朗普威胁古巴哥伦比亚",
@@ -110,6 +139,19 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
+          "url": "https://wallstreetcn.com/articles/3762529",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 15时33分]"
+        },
+        {
           "title": "美国国务卿卢比奥：石油对委内瑞拉的未来具有至关重要的意义。 （特朗普政府）在委内瑞拉（军事行动的）目标包括不再发生毒品输送，并切断与伊朗的联系。 （对于总统马杜罗）政府官员，我们已经虏获最高目标。 不在委内瑞拉陆地展开数日行动，是无法掳走更多人员的。 委内瑞拉并不存在美国的地面部队。 （对于占领委内瑞拉）总统特朗普保留这样的选项。 委内瑞拉实现民主过渡需要时间，不可能在几个小时内发生。 我将深度介入委内瑞拉的政权过渡。 将判断副总统Rodriguez的行动。 预计委内瑞拉将发生变化。 石油禁运是美国在委内瑞拉一个主要的杠杆。 需要再投资委内瑞拉石油，需要私人公司参与。 委内瑞拉的大多数机会在其国家之外。",
           "url": "https://wallstreetcn.com/livenews/3030342",
           "source": "华尔街见闻-快讯",
@@ -121,33 +163,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32315820",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 14时48分]"
-        },
-        {
-          "title": "特朗普威胁委代总统或付“沉重代价”",
-          "url": "https://www.toutiao.com/trending/7591475606379154985/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            14,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 14时48分]"
         },
         {
           "title": "好莱坞明星入籍法国，特朗普发帖讽刺，本人回击",
@@ -174,17 +189,27 @@
           "time_info": "[10时21分 ~ 14时48分]"
         },
         {
-          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
-          "url": "https://wallstreetcn.com/articles/3762529",
-          "source": "华尔街见闻",
+          "title": "特朗普：委内瑞拉是一个“死掉的国家”，美国“正在掌权”",
+          "url": "https://news.ifeng.com/c/8pf4IXU084i",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 14时48分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 15时33分]"
+        },
+        {
+          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
+          "url": "https://wallstreetcn.com/articles/3762521",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 15时33分]"
         },
         {
           "title": "美国“闪击”委内瑞拉：特朗普称将“管理”委内瑞拉直至实施“安全”过渡，深度介入石油产业",
@@ -196,6 +221,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "委内瑞拉后恐是格陵兰岛，丹麦首相强硬回应特朗普！",
+          "url": "https://www.cls.cn/detail/2247392",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 15时33分]"
         },
         {
           "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
@@ -222,17 +260,6 @@
           "time_info": "[00时31分 ~ 06时26分]"
         },
         {
-          "title": "特朗普：委内瑞拉是一个“死掉的国家”，美国“正在掌权”",
-          "url": "https://news.ifeng.com/c/8pf4IXU084i",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
-        },
-        {
           "title": "委内瑞拉全面战备，国际社会持续反对，特朗普：还没完",
           "url": "https://news.ifeng.com/c/8peoBGO9yZ7",
           "source": "凤凰网",
@@ -257,31 +284,6 @@
           "time_info": "[04时29分 ~ 07时25分]"
         },
         {
-          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
-          "url": "https://wallstreetcn.com/articles/3762521",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 14时48分]"
-        },
-        {
-          "title": "委内瑞拉后恐是格陵兰岛，丹麦首相强硬回应特朗普！",
-          "url": "https://www.cls.cn/detail/2247392",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 14时48分]"
-        },
-        {
           "title": "美军委内瑞拉行动引发党争 民主党人呼吁弹劾特朗普",
           "url": "https://www.cls.cn/detail/2247292",
           "source": "财联社热门",
@@ -291,6 +293,44 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时19分 ~ 14时48分]"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 15时33分]"
+        },
+        {
+          "title": "特朗普改口称不相信乌袭击普京官邸",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E7%A7%B0%E4%B8%8D%E7%9B%B8%E4%BF%A1%E4%B9%8C%E8%A2%AD%E5%87%BB%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 15时33分]"
+        },
+        {
+          "title": "特朗普称美需全面获取委石油及资源",
+          "url": "https://www.toutiao.com/trending/7591716415548313126/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 15时33分]"
         },
         {
           "title": "丹麦首相敦促特朗普停止威胁接管格陵兰岛",
@@ -344,48 +384,12 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时48分]"
-        },
-        {
           "title": "特朗普暗示可能对墨西哥采取行动",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E5%AF%B9%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 14时48分]"
-        },
-        {
-          "title": "特朗普改口称不相信乌袭击普京官邸",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E7%A7%B0%E4%B8%8D%E7%9B%B8%E4%BF%A1%E4%B9%8C%E8%A2%AD%E5%87%BB%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 14时48分]"
-        },
-        {
-          "title": "特朗普称美需全面获取委石油及资源",
-          "url": "https://www.toutiao.com/trending/7591716415548313126/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            29
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -418,6 +422,18 @@
           "time_info": "[05时24分 ~ 07时25分]"
         },
         {
+          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
+          "url": "https://www.cls.cn/detail/2247636",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 15时33分]"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普在委内瑞拉的行为虽属非法，但符合其一贯捍卫美国利益的作风。",
           "url": "https://flash.jin10.com/detail/20260104225319283800",
           "source": "金十数据",
@@ -429,6 +445,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普称美国已“掌控”委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7591367635717373988/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 15时33分]"
         },
         {
           "title": "美国总统特朗普在《大西洋》月刊采访中表示，委内瑞拉副总统德尔茜·罗德里格斯“若不行正道”将付出比马杜罗更惨痛代价。",
@@ -487,28 +515,6 @@
           "time_info": "[10时21分 ~ 10时22分]"
         },
         {
-          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
-          "url": "https://www.cls.cn/detail/2247636",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
-        },
-        {
-          "title": "特朗普称美国已“掌控”委内瑞拉",
-          "url": "https://www.toutiao.com/trending/7591367635717373988/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
-        },
-        {
           "title": "特朗普威胁委内瑞拉代总统",
           "url": "https://flash.jin10.com/detail/20260105021301482800",
           "source": "金十数据",
@@ -561,7 +567,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -572,7 +578,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -583,7 +589,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -738,6 +744,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月05日（周一）上海金午盘价为992.86元/克，较国际金价(991.31元/克)，高1.55元/克",
+          "url": "https://flash.jin10.com/detail/20260105150258794800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "凯投宏观：委内瑞拉供给变动不会对美债产生显著影响",
+          "url": "https://flash.jin10.com/detail/20260105145449593800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     },
