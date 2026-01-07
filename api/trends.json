@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T21:45:33.772873+08:00",
-  "total_titles_processed": 1957,
+  "generated_at": "2026-01-07T22:32:10.339589+08:00",
+  "total_titles_processed": 2049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时05分 ~ 21时45分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 22时32分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时05分 ~ 21时45分]"
+          "appearance_count": 13,
+          "time_info": "[12时05分 ~ 22时32分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -158,6 +158,18 @@
           "time_info": "[07时27分 ~ 14时42分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时57分 ~ 22时32分]"
+        },
+        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -199,16 +211,17 @@
           "time_info": "[00时36分 ~ 07时27分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            9,
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时45分]"
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 22时32分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -233,6 +246,20 @@
           "time_info": "17时34分"
         },
         {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 22时32分]"
+        },
+        {
           "title": "特朗普向印度发出新警告",
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
@@ -244,18 +271,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时05分 ~ 14时42分]"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 21时45分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -379,17 +394,16 @@
           "time_info": "[05时27分 ~ 06时28分]"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            17,
-            14
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时45分]"
+          "time_info": "[20时57分 ~ 22时32分]"
         },
         {
           "title": "美国总统特朗普：我们有很多石油可以开采。开采石油会进一步降低油价。",
@@ -512,17 +526,6 @@
           "time_info": "[17时34分 ~ 18时31分]"
         },
         {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时45分]"
-        },
-        {
           "title": "美参院民主党领袖批特朗普对委行动",
           "url": "https://www.toutiao.com/trending/7591542867982614564/",
           "source": "今日头条",
@@ -618,7 +621,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -772,7 +775,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -819,6 +822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "外媒：特朗普正固化美国全球流氓形象",
+          "url": "https://www.toutiao.com/trending/7591748193269137471/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美参院民主党领袖批评：涉对委行动，特朗普政府“一问四不知”",
@@ -934,7 +948,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -1123,7 +1137,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1137,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3032511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "隔夜美股存储板块再度狂飙 存储产业链有望持续站上风口",
@@ -1186,7 +1211,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1204,8 +1229,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时36分 ~ 21时45分]"
+          "appearance_count": 26,
+          "time_info": "[00时36分 ~ 22时32分]"
         },
         {
           "title": "消息人士称，阿曼外交部长将访问伊朗。",
@@ -1263,6 +1288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
+          "url": "https://news.ifeng.com/c/8pj8bQ0XmqB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "市场消息：一名伊朗警察在示威活动中遭枪击身亡。",
@@ -1423,7 +1459,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1473,7 +1509,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
