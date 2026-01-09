@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T07:23:36.827551+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-01-09T10:06:55.921372+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 75,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时06分]"
         },
         {
           "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时06分]"
         },
         {
           "title": "特朗普“炮轰”美国军火商",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时06分]"
         },
         {
           "title": "特朗普 ：禁止囤房",
@@ -87,6 +87,17 @@
           "time_info": "[00时38分 ~ 06时27分]"
         },
         {
+          "title": "美国总统特朗普：抓捕马杜罗并非艰难的决定。",
+          "url": "https://flash.jin10.com/detail/20260109100525841800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：房地美和房利美有工具来执行总统特朗普的住房命令。",
           "url": "https://wallstreetcn.com/livenews/3033456",
           "source": "华尔街见闻-快讯",
@@ -104,9 +115,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美国总统特朗普：我将接受肖恩·汉尼提和福克斯新闻频道的采访。",
+          "url": "https://flash.jin10.com/detail/20260109100452653800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：预计美国总统特朗普将在下个月就房利美和房地美的IPO作出决定。",
@@ -371,6 +393,18 @@
           "time_info": "[02时37分 ~ 03时25分]"
         },
         {
+          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
+          "url": "https://www.zhihu.com/question/1992163357625643469",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时06分]"
+        },
+        {
           "title": "美国总统特朗普：古巴有麻烦。",
           "url": "https://wallstreetcn.com/livenews/3033509",
           "source": "华尔街见闻-快讯",
@@ -407,6 +441,29 @@
           "time_info": "[06时27分 ~ 07时23分]"
         },
         {
+          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时06分]"
+        },
+        {
+          "title": "特朗普：美联储主席人选已定，但我暂时不想说",
+          "url": "https://www.cls.cn/detail/2252430",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "美国参议院以52比47的票数通过了关于战争权力的决议，限制特朗普对委内瑞拉采取军事行动的能力。",
           "url": "https://flash.jin10.com/detail/20260109004850741800",
           "source": "金十数据",
@@ -427,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -457,7 +525,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -468,9 +536,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
+          "url": "https://www.cls.cn/detail/2252393",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "特朗普指示购买2000亿美元住房抵押贷款支持证券",
@@ -479,7 +558,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -504,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
+          "url": "https://www.cls.cn/detail/2252459",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国白宫：特朗普将否决委内瑞拉战争权力的决议。",
@@ -534,7 +624,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -600,7 +690,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -649,17 +739,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
-          "url": "https://www.zhihu.com/question/1992163357625643469",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普政府即将宣布成立新的司法部全国欺诈执法司。",
           "url": "https://flash.jin10.com/detail/20260109030848573800",
           "source": "金十数据",
@@ -669,17 +748,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
-        },
-        {
-          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "美国财长贝森特：仍然有四名候选人有望接替美联储主席鲍威尔。 我们（贝森特+总统特朗普）还没有面试贝莱德分析师Rick Rieder。 特朗普可能会在前往达沃斯之前、或之后宣布决定。",
@@ -790,12 +858,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "韩华航空股价暴涨7.3%。此前美国总统特朗普表示将2027财年美国军费提高至1.5万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3033641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -804,11 +883,35 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时06分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
+          "url": "https://www.cls.cn/detail/2252454",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时06分]"
+        },
+        {
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -817,18 +920,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
-          "url": "https://www.cls.cn/detail/2252454",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -929,18 +1021,30 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
           "url": "https://www.zhihu.com/question/1992559906939696772",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时06分]"
+        },
+        {
+          "title": "一觉醒来，伊朗采取极端措施了",
+          "url": "https://news.ifeng.com/c/8plZSSGoG34",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "伊朗外长：已为任何可能发生的情况做好战争准备",
@@ -977,6 +1081,28 @@
           "time_info": "02时37分"
         },
         {
+          "title": "伊朗大范围断网",
+          "url": "https://www.douyin.com/hot/2361572",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗大范围断网",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%96%AD%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "伊朗正发生全国范围的互联网断网。（NetBlocks）",
           "url": "https://wallstreetcn.com/livenews/3033483",
           "source": "华尔街见闻-快讯",
@@ -997,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗大范围断网",
+          "url": "https://www.toutiao.com/trending/7593049446250922026/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国财长贝森特：伊朗正处于岌岌可危的时刻；经济已岌岌可危。",
@@ -1069,7 +1206,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -1099,7 +1236,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -1125,6 +1262,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 06时27分]"
+        },
+        {
+          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
+          "url": "https://wallstreetcn.com/articles/3762888",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
@@ -1214,6 +1362,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家统计局：环比来看，受国际金价上行影响，12月国内金饰品价格上涨5.6%。 天气条件相对较好，鲜菜价格上涨0.8%，涨幅低于季节性水平3.3个百分点。 生猪产能较为充足，猪肉价格下降1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3033678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     }
