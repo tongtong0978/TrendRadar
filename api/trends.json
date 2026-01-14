@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T21:48:11.692745+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2026-01-14T22:32:18.207139+08:00",
+  "total_titles_processed": 2088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 112,
+      "match_count": 113,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时38分 ~ 22时32分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -40,19 +53,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 21时48分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -91,19 +91,6 @@
           "time_info": "[00时39分 ~ 05时28分]"
         },
         {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 14时42分]"
-        },
-        {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
           "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
           "source": "澎湃新闻",
@@ -115,8 +102,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 21时48分]"
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 22时32分]"
+        },
+        {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 14时42分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -199,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "美国总统特朗普今日将签署关于学校全脂牛奶的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260114221525506800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -1209,7 +1220,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1264,7 +1275,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1294,7 +1305,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1317,8 +1328,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 21时48分]"
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 22时32分]"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://news.ifeng.com/c/8pufl7S6EV4",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时58分 ~ 22时32分]"
         },
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
@@ -1376,17 +1398,6 @@
           "time_info": "[00时39分 ~ 12时12分]"
         },
         {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://news.ifeng.com/c/8pufl7S6EV4",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时58分 ~ 21时48分]"
-        },
-        {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
           "url": "https://www.zhihu.com/question/1994353599640270638",
           "source": "知乎",
@@ -1410,6 +1421,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时38分 ~ 17时35分]"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.douyin.com/hot/2367771",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时58分 ~ 22时32分]"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时58分 ~ 22时32分]"
         },
         {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
@@ -1548,17 +1583,6 @@
           "time_info": "[02时38分 ~ 04时32分]"
         },
         {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://www.douyin.com/hot/2367771",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时58分 ~ 21时48分]"
-        },
-        {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
           "url": "https://flash.jin10.com/detail/20260114020738248800",
           "source": "金十数据",
@@ -1569,18 +1593,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时26分]"
-        },
-        {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时58分 ~ 21时48分]"
         },
         {
           "title": "据NewsNation：知情人士证实，美国副总统万斯定于今天下午（北京时间今晨）与国家安全团队举行会议，主导制定对伊朗的战略。",
@@ -1796,6 +1808,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美国暂停为俄罗斯、巴西和伊朗处理签证。",
+          "url": "https://flash.jin10.com/detail/20260114220818883800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "意大利外交部长：我已召见伊朗大使。",
           "url": "https://flash.jin10.com/detail/20260113234845911800",
           "source": "金十数据",
@@ -1890,7 +1913,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1928,6 +1951,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "伊朗高级将领：伊朗处于最高战备状态",
+          "url": "https://wallstreetcn.com/livenews/3037097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国国务院再次要求美公民离开伊朗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%86%8D%E6%AC%A1%E8%A6%81%E6%B1%82%E7%BE%8E%E5%85%AC%E6%B0%91%E7%A6%BB%E5%BC%80%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1942,7 +1976,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1952,8 +1986,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时10分 ~ 21时48分]"
+          "appearance_count": 16,
+          "time_info": "[10时10分 ~ 22时32分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -2040,6 +2074,17 @@
           "time_info": "[03时26分 ~ 04时32分]"
         },
         {
+          "title": "伊朗局势担忧加剧，美股指期货跌幅扩大，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
+        },
+        {
           "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
           "url": "https://wallstreetcn.com/livenews/3036425",
           "source": "华尔街见闻-快讯",
@@ -2119,6 +2164,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3037104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国银行：第四季度净利息收入157.5亿美元，市场预期为154.8亿美元。 第四季度每股收益0.98美元。 第四季度净利息收益率2.08%，市场预期为2.04%。 第四季度投资银行收入16.7亿美元，市场预期为16.6亿美元。 第四季度债务承销收入8.1亿美元，市场预期为8.64亿美元。 第四季度股权承销收入2.97亿美元，市场预期为3.01亿美元。 美国银行美股盘前涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3037009",
           "source": "华尔街见闻-快讯",
@@ -2136,7 +2192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         }
@@ -2323,6 +2379,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时58分 ~ 22时32分]"
+        },
+        {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
           "url": "https://wallstreetcn.com/articles/3763151",
           "source": "华尔街见闻",
@@ -2354,17 +2422,6 @@
           "time_info": "[00时39分 ~ 15时31分]"
         },
         {
-          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1994233409871050526",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时58分 ~ 21时48分]"
-        },
-        {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
           "url": "https://wallstreetcn.com/livenews/3036793",
           "source": "华尔街见闻-快讯",
@@ -2379,7 +2436,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数涨约0.3%，美国CPI数据发布后强势V型反转",
@@ -2404,6 +2461,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时39分]"
+        },
+        {
+          "title": "韩元兑美元涨幅扩大至1%，新兴市场外汇指数刷新日高。美国财长贝森特声称，韩元贬值与基本面不符。",
+          "url": "https://wallstreetcn.com/livenews/3037121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美元指数13日上涨",
