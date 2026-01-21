@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T12:09:57.143604+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-01-21T13:35:34.884273+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 101,
+      "match_count": 106,
       "titles": [
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 12时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 13时35分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 12时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 13时35分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -60,11 +60,12 @@
           "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 12时09分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时35分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -99,19 +100,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时09分]"
-        },
-        {
-          "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
-          "url": "https://news.ifeng.com/c/8q4kJoceknE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时35分]"
         },
         {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
@@ -119,6 +109,17 @@
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时35分]"
+        },
+        {
+          "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
+          "url": "https://news.ifeng.com/c/8q4kJoceknE",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -138,6 +139,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 06时29分]"
+        },
+        {
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时35分]"
         },
         {
           "title": "特朗普重返白宫一周年，过半美国民众：表现失败",
@@ -188,17 +201,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时47分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
         },
         {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
@@ -262,7 +264,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -303,6 +305,31 @@
           "time_info": "[01时36分 ~ 02时47分]"
         },
         {
+          "title": "马克龙在达沃斯喊话特朗普",
+          "url": "https://www.douyin.com/hot/2374693",
+          "source": "抖音",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时35分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时35分]"
+        },
+        {
           "title": "周二（1月20日），降息赢家指数跌2.89%，报104.40点。 “特朗普关税输家”指数跌3.08%，报114.88点，跳空低开之后平滑地持续走低。 “特朗普金融指数”跌2.89%，报171.02点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.69%，报15.55点。",
           "url": "https://wallstreetcn.com/livenews/3040687",
           "source": "华尔街见闻-快讯",
@@ -339,28 +366,17 @@
           "time_info": "[06时29分 ~ 07时29分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时09分]"
-        },
-        {
           "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
           "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时35分]"
         },
         {
           "title": "雪佛龙在纠结：如何能迎合特朗普，又避免在委内瑞拉亏钱",
@@ -396,6 +412,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时29分]"
+        },
+        {
+          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
+          "url": "https://www.cls.cn/detail/2264207",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时35分]"
         },
         {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
@@ -450,7 +478,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -483,7 +511,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -510,15 +538,15 @@
           "time_info": "10时10分"
         },
         {
-          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
-          "url": "https://www.cls.cn/detail/2264207",
-          "source": "财联社热门",
+          "title": "特朗普发插旗图有何目的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "13时35分"
         },
         {
           "title": "美国总统特朗普：我们接手时油价很高，但我们大幅降低了油价。看看汽油价格——现在美国有些地方的汽油价格是每加仑1.99美元，其他地方是每加仑2.50美元。在拜登执政时期，汽油价格是每加仑4美元、5美元，甚至更高。",
@@ -648,7 +676,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -802,20 +830,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
         {
-          "title": "马克龙在达沃斯喊话特朗普",
-          "url": "https://www.douyin.com/hot/2374693",
-          "source": "抖音",
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "13时35分"
         },
         {
           "title": "美国总统特朗普：我们需要格陵兰岛来保障世界安全。",
@@ -835,9 +863,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "美国总统特朗普：“收回”巴拿马运河在考虑范围内。",
@@ -849,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "欧洲反对特朗普收购格陵兰岛及其提出的“和平委员会”倡议，导致战后乌克兰经济援助计划搁浅。",
+          "url": "https://flash.jin10.com/detail/20260121130644760800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "巴林外交部：巴林接受邀请，加入美国总统特朗普的和平委员会。",
@@ -912,7 +962,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -928,13 +978,24 @@
           "time_info": "05时27分"
         },
         {
+          "title": "特朗普晒马克龙私信",
+          "url": "https://www.douyin.com/hot/2374658",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
           "title": "特朗普好友是吞并格陵兰岛核心推动者",
           "url": "https://www.toutiao.com/trending/7597618682956615218/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -989,7 +1050,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1033,7 +1094,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1151,7 +1212,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -1179,17 +1240,6 @@
           "time_info": "[00时42分 ~ 06时29分]"
         },
         {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时27分]"
-        },
-        {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
           "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
@@ -1197,8 +1247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 12时09分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时35分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -1210,8 +1260,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 12时09分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时35分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 05时27分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
@@ -1222,8 +1283,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时35分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -1309,6 +1370,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
+          "url": "https://www.cls.cn/detail/2264507",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20260121050048735800",
           "source": "金十数据",
@@ -1345,7 +1417,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "马斯克建议：不要让你的亲人使用ChatGPT",
@@ -1388,9 +1460,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
+          "url": "https://flash.jin10.com/detail/20260121131506452800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
@@ -1399,7 +1482,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1410,7 +1493,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1479,6 +1562,29 @@
           "time_info": "[00时42分 ~ 10时10分]"
         },
         {
+          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996659800252118065",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时35分]"
+        },
+        {
+          "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
+          "url": "https://www.zhihu.com/question/1996636704929502107",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时35分]"
+        },
+        {
           "title": "金价突破4800美元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44800%E7%BE%8E%E5%85%83%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1512,35 +1618,13 @@
           "time_info": "07时29分"
         },
         {
-          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996659800252118065",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
-          "url": "https://www.zhihu.com/question/1996636704929502107",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "钻石价格大跌 同期黄金价格涨超400%",
           "url": "https://www.toutiao.com/trending/7596937973166833710/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1551,7 +1635,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
@@ -1574,8 +1658,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 12时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 13时35分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -1587,8 +1671,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 12时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 13时35分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -1601,8 +1685,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时29分 ~ 12时09分]"
+          "appearance_count": 7,
+          "time_info": "[06时29分 ~ 13时35分]"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -1622,7 +1706,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
@@ -1677,11 +1761,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时35分]"
         }
       ]
     },
@@ -1717,7 +1802,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
