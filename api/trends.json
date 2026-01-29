@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:45:11.339354+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-01-29T16:50:39.475272+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 15时45分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 16时50分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -117,11 +118,12 @@
             12,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 16时50分]"
         },
         {
           "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
@@ -132,8 +134,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 16时50分]"
         },
         {
           "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
@@ -1181,11 +1183,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 16时50分]"
         },
         {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
@@ -1194,7 +1197,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -1281,7 +1284,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -1330,6 +1333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
