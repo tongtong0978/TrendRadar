@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-04T17:54:23.409262+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-02-04T18:46:35.690561+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时45分 ~ 18时46分]"
+        },
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
           "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
@@ -19,19 +32,6 @@
           "time_info": "[01时01分 ~ 07时35分]"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 17时54分]"
-        },
-        {
           "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
           "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
           "source": "凤凰网",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 17时54分]"
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 18时46分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时46分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时46分]"
         },
         {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
@@ -100,6 +100,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 06时36分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204181439687800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
@@ -216,6 +227,19 @@
           "time_info": "[03时10分 ~ 04时44分]"
         },
         {
+          "title": "特朗普与爱泼斯坦聚会视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时46分]"
+        },
+        {
           "title": "特朗普称正与伊朗进行谈判",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
           "source": "澎湃新闻",
@@ -226,18 +250,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时32分 ~ 13时55分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦聚会视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时54分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -343,6 +355,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "据英国《金融时报》：美国参议员推动700亿美元融资协议，以支持美国总统特朗普的关键矿物议程。",
+          "url": "https://flash.jin10.com/detail/20260204180151298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
           "url": "https://flash.jin10.com/detail/20260204024423166800",
           "source": "金十数据",
@@ -371,7 +394,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -664,11 +687,12 @@
             8,
             25,
             18,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 17时54分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 18时46分]"
         },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -693,8 +717,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时46分]"
         },
         {
           "title": "伊朗方面表示，感谢所有为创造形成外交进程条件而作出努力的友好国家。",
@@ -769,11 +793,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时46分]"
         },
         {
           "title": "伊朗：一架无人机在公海执行合法侦察活动时失联",
@@ -809,6 +834,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 12时45分]"
+        },
+        {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时46分]"
         },
         {
           "title": "报道称伊朗炮艇逼近悬挂美国旗油轮",
@@ -888,17 +924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "美官员：美军击落一架逼近美国航母的伊朗无人机",
@@ -1113,8 +1138,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时34分 ~ 17时54分]"
+          "appearance_count": 12,
+          "time_info": "[07时34分 ~ 18时46分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1125,8 +1150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 17时54分]"
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 18时46分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -1138,8 +1163,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时46分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1188,6 +1213,20 @@
           "time_info": "[07时34分 ~ 15时01分]"
         },
         {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时45分 ~ 18时46分]"
+        },
+        {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
           "url": "https://www.cls.cn/detail/2279540",
           "source": "财联社热门",
@@ -1200,20 +1239,6 @@
           "time_info": "[01时01分 ~ 10时32分]"
         },
         {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 17时54分]"
-        },
-        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -1222,8 +1247,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时01分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 18时46分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -1358,7 +1383,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1735,11 +1760,12 @@
           "source": "微博",
           "ranks": [
             7,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时46分]"
         },
         {
           "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
@@ -1759,7 +1785,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1791,8 +1817,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时01分 ~ 17时54分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 18时46分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
