@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T22:35:17.017536+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-02-08T23:33:14.486922+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
@@ -197,17 +197,6 @@
           "time_info": "[00时38分 ~ 05时33分]"
         },
         {
-          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
-          "url": "https://flash.jin10.com/detail/20260208215651951800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        },
-        {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
           "url": "https://flash.jin10.com/detail/20260208105958137800",
           "source": "金十数据",
@@ -249,6 +238,18 @@
           "time_info": "[13时10分 ~ 16时40分]"
         },
         {
+          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
+          "url": "https://flash.jin10.com/detail/20260208215651951800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时35分 ~ 23时33分]"
+        },
+        {
           "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
           "url": "https://flash.jin10.com/detail/20260208105717509800",
           "source": "金十数据",
@@ -275,6 +276,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时57分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普被白头海雕打脸视频再度火了",
+          "url": "https://www.toutiao.com/trending/7603686321965662214/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时34分 ~ 23时33分]"
         },
         {
           "title": "学者：特朗普羞辱奥巴马引众怒",
@@ -314,17 +327,6 @@
           "time_info": "[10时57分 ~ 13时10分]"
         },
         {
-          "title": "特朗普被白头海雕打脸视频再度火了",
-          "url": "https://www.toutiao.com/trending/7603686321965662214/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时34分 ~ 22时35分]"
-        },
-        {
           "title": "民主党高层对特朗普爆粗口",
           "url": "https://www.toutiao.com/trending/7603988391726317587/",
           "source": "今日头条",
@@ -339,7 +341,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -493,6 +495,21 @@
           "time_info": "[16时40分 ~ 22时35分]"
         },
         {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://wallstreetcn.com/livenews/3051814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            13,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 23时33分]"
+        },
+        {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
           "url": "https://flash.jin10.com/detail/20260208152249026800",
           "source": "金十数据",
@@ -521,30 +538,17 @@
           "time_info": "[10时57分 ~ 15时43分]"
         },
         {
-          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
-          "url": "https://wallstreetcn.com/livenews/3051814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 22时35分]"
-        },
-        {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
           "url": "https://wallstreetcn.com/livenews/3051828",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时35分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时33分]"
         },
         {
           "title": "美特使登航母，与击落伊朗无人机飞行员交流",
@@ -585,6 +589,17 @@
           "time_info": "[18时34分 ~ 21时02分]"
         },
         {
+          "title": "伊朗外长：伊美核谈判开局良好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32563811",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32558478",
           "source": "澎湃新闻",
@@ -603,9 +618,63 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
+          "url": "https://www.zhihu.com/question/2003305831391785957",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时09分 ~ 19时29分]"
+        },
+        {
+          "title": "黄金——资产再配置，金价走向何方？",
+          "url": "https://wallstreetcn.com/articles/3765213",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 07时37分]"
+        },
+        {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://www.toutiao.com/trending/7604465515100114459/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
+          "title": "为什么最近黄金价格波动这么大",
+          "url": "https://www.toutiao.com/trending/7604386572770741796/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         }
       ]
     },
@@ -635,8 +704,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时43分 ~ 22时35分]"
+          "appearance_count": 11,
+          "time_info": "[15时43分 ~ 23时33分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -663,49 +732,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 06时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
-          "url": "https://www.zhihu.com/question/2003305831391785957",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时09分 ~ 19时29分]"
-        },
-        {
-          "title": "黄金——资产再配置，金价走向何方？",
-          "url": "https://wallstreetcn.com/articles/3765213",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 07时37分]"
-        },
-        {
-          "title": "为什么最近黄金价格波动这么大",
-          "url": "https://www.toutiao.com/trending/7604386572770741796/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
         }
       ]
     },
@@ -742,8 +768,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 22时35分]"
+          "appearance_count": 10,
+          "time_info": "[16时40分 ~ 23时33分]"
         }
       ]
     },
@@ -777,11 +803,12 @@
             2,
             7,
             10,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 22时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 23时33分]"
         }
       ]
     }
