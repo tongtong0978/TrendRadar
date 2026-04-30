@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T20:18:57.830987+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-04-30T23:15:14.090371+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 62,
       "titles": [
         {
           "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时01分 ~ 20时18分]"
+        },
+        {
+          "title": "特朗普，居然这都能搞错？",
+          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 23时15分]"
         },
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -55,17 +67,6 @@
           "time_info": "[01时43分 ~ 07时02分]"
         },
         {
-          "title": "特朗普，居然这都能搞错？",
-          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 20时18分]"
-        },
-        {
           "title": "特朗普放话：伊朗不求饶，海峡不解封",
           "url": "https://news.ifeng.com/c/8sjt504KI9b",
           "source": "凤凰网",
@@ -75,6 +76,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时35分 ~ 20时18分]"
+        },
+        {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 23时15分]"
         },
         {
           "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
@@ -141,20 +157,6 @@
           "time_info": "[15时31分 ~ 20时18分]"
         },
         {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 20时18分]"
-        },
-        {
           "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
           "url": "https://www.cls.cn/detail/2360318",
           "source": "财联社热门",
@@ -210,6 +212,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
+          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -314,6 +327,18 @@
           "time_info": "[03时45分 ~ 05时12分]"
         },
         {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 23时15分]"
+        },
+        {
           "title": "特朗普支持率降至任内新低",
           "url": "https://www.douyin.com/hot/2482851",
           "source": "抖音",
@@ -327,6 +352,19 @@
           "time_info": "[03时44分 ~ 08时05分]"
         },
         {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 23时15分]"
+        },
+        {
           "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
           "url": "https://www.zhihu.com/question/2032758360743883157",
           "source": "知乎",
@@ -337,6 +375,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时05分 ~ 12时36分]"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 23时15分]"
         },
         {
           "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
@@ -361,28 +411,26 @@
           "time_info": "[12时35分 ~ 12时36分]"
         },
         {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
+          "title": "特朗普特工的手枪瞄准镜疑似中国制造",
+          "url": "https://www.toutiao.com/trending/7634381061883134015/",
+          "source": "今日头条",
           "ranks": [
-            9,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 20时18分]"
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
           "ranks": [
-            16,
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 20时18分]"
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动",
@@ -391,7 +439,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -416,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "特朗普再次对德国总理涉伊朗言论表达不满",
+          "url": "https://wallstreetcn.com/livenews/3097606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "特朗普：英特尔股价继续上涨。",
@@ -451,6 +510,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "白宫顾问哈塞特：我们（特朗普政府）持续与众多石油企业沟通。 正考虑采取行动，迅速提高美国的石油产量。",
+          "url": "https://wallstreetcn.com/livenews/3097599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "特朗普：向普京建议俄乌实施短期停火",
           "url": "https://wallstreetcn.com/livenews/3096975",
           "source": "华尔街见闻-快讯",
@@ -482,17 +552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
         },
         {
           "title": "普京与特朗普通话超一个半小时",
@@ -647,12 +706,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（在被问及汽油价格时）特朗普击败了欧佩克。",
+          "url": "https://flash.jin10.com/detail/20260430223234554800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 56,
       "titles": [
         {
           "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
@@ -866,6 +936,17 @@
           "time_info": "[15时31分 ~ 18时11分]"
         },
         {
+          "title": "伊朗战争丨穆杰塔巴：伊朗将行使海峡管理权，波斯湾未来没有美国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 23时15分]"
+        },
+        {
           "title": "伊朗首都大规模集会展示国家团结",
           "url": "https://www.toutiao.com/trending/7634423952917037094/",
           "source": "今日头条",
@@ -911,15 +992,15 @@
           "time_info": "[12时35分 ~ 12时36分]"
         },
         {
-          "title": "伊朗战争丨穆杰塔巴：伊朗将行使海峡管理权，波斯湾未来没有美国",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "美众议院议长约翰逊：美国“未与伊朗交战”，国会无需就60天战争权限表决",
+          "url": "https://flash.jin10.com/detail/20260430225818044800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "23时15分"
         },
         {
           "title": "美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。",
@@ -955,6 +1036,17 @@
           "time_info": "15时32分"
         },
         {
+          "title": "以色列国防部长卡茨：我们可能很快需要再次采取行动，以确保我们在伊朗的目标得以实现。",
+          "url": "https://flash.jin10.com/detail/20260430225705264800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "伊朗外长：美以在40多天内对伊“犯下最严重反人类罪行”",
           "url": "https://wallstreetcn.com/livenews/3096941",
           "source": "华尔街见闻-快讯",
@@ -983,7 +1075,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1010,6 +1102,17 @@
           "time_info": "12时36分"
         },
         {
+          "title": "美国众议院议长约翰逊表示，美国并未与伊朗处于战争状态。国会无需就针对伊朗的军事行动进行表决。（NBC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3097604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "加拿大政府：禁止伊朗革命卫队官员入境。",
           "url": "https://flash.jin10.com/detail/20260430044545534800",
           "source": "金十数据",
@@ -1032,6 +1135,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美国众议院议长约翰逊表示，美国并未与伊朗处于战争状态。国会无需就针对伊朗的军事行动进行表决。",
+          "url": "https://flash.jin10.com/detail/20260430225227717800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "美国财长贝森特：消费者和股市（投资者）正在关注伊朗。",
           "url": "https://flash.jin10.com/detail/20260430044453564800",
           "source": "金十数据",
@@ -1049,7 +1163,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1060,7 +1174,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1071,7 +1185,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1137,7 +1251,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1175,15 +1289,37 @@
           "time_info": "08时05分"
         },
         {
+          "title": "伊朗强调尊重其人民意愿方能保障海湾地区安宁",
+          "url": "https://wallstreetcn.com/livenews/3097587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "伊朗最高领袖：伊朗将确保波斯湾区域的安全",
           "url": "https://wallstreetcn.com/livenews/3097456",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        },
+        {
+          "title": "伊朗议长和外长发文纪念“国家波斯湾日”",
+          "url": "https://wallstreetcn.com/livenews/3097581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "伊朗确定国家利益委员会委员穆罕默德·穆赫贝尔：当全球20%的石油和超过18万亿立方米的天然气掌握在我们手中时，海上封锁不会将伊朗拖回石器时代；相反，这必将使统治体系陷入冰河时代。",
@@ -1206,12 +1342,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "伊朗议长强调将对霍尔木兹海峡实施管理",
+          "url": "https://wallstreetcn.com/livenews/3097579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -1224,6 +1371,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 05时12分]"
+        },
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "周三（4月29日）纽约尾盘，现货黄金下跌1.15%，报4544.05美元/盎司，整体持续走低，交投于4610.29-4510.32美元，美股盘初刷新日低，美联储发布决议声明、鲍威尔新闻发布会期间交投于4540美元附近。 现货白银跌2.44%，报71.2949美元/盎司，13:45刷新日高至73.9497美元，随后在02:45（鲍威尔新闻发布会期间）刷新日低至70.8690美元。",
@@ -1278,7 +1436,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1374,7 +1532,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1385,8 +1543,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 20时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 23时15分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -1398,8 +1556,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 20时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 23时15分]"
         },
         {
           "title": "电话会：谷歌母公司Alphabet上调2026年资本开支预期至1800亿-1900亿美元。",
@@ -1413,6 +1571,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "谷歌A创约8个月最大盘中涨幅",
+          "url": "https://wallstreetcn.com/livenews/3097611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "谷歌入驻广州珠江新城",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%85%A5%E9%A9%BB%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -1423,6 +1592,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时11分 ~ 20时18分]"
+        },
+        {
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "Alphabet(GOOGL.O)CEO：谷歌云业务正迎来强劲的交易势头。",
@@ -1601,7 +1781,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -1628,8 +1808,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时43分 ~ 20时18分]"
+          "appearance_count": 16,
+          "time_info": "[01时43分 ~ 23时15分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -1638,26 +1818,49 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 23时15分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
           "url": "https://www.zhihu.com/question/2031352480852915686",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 23时15分]"
+        },
+        {
+          "title": "DeepSeek思考过程好萌",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价",
@@ -1673,6 +1876,18 @@
           "time_info": "[01时43分 ~ 08时05分]"
         },
         {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 23时15分]"
+        },
+        {
           "title": "国际金价继续回撤至4500美元附近",
           "url": "https://www.toutiao.com/trending/7634171899290848787/",
           "source": "今日头条",
@@ -1685,16 +1900,26 @@
           "time_info": "[01时43分 ~ 03时45分]"
         },
         {
-          "title": "影响金价的关键因素是什么",
-          "url": "https://www.douyin.com/hot/2482875",
-          "source": "抖音",
+          "title": "金价“跳水”背后藏着什么博弈",
+          "url": "https://www.toutiao.com/trending/7634525215950638633/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 20时18分]"
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
+          "title": "高金价下的黄金市场变局",
+          "url": "https://www.toutiao.com/trending/7634524684175805994/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "鲍威尔把问题丢给油价，金价多头最大的敌人转换！",
@@ -1711,8 +1936,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数DXY日内跌幅扩大至0.8%。非美货币走高，澳元兑美元AUD/USD日内涨超1.00%，现报0.7187。美元兑加元USD/CAD日内跌超0.50%，现报1.3615。",
+          "url": "https://flash.jin10.com/detail/20260430225606796800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
         {
           "title": "美元指数在“鲍威尔最后一次新闻发布会”当天涨超0.3%",
           "url": "https://wallstreetcn.com/livenews/3096919",
@@ -1750,8 +1986,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时01分 ~ 20时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时01分 ~ 23时15分]"
         }
       ]
     }
