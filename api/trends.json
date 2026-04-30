@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T18:11:55.131717+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-04-30T20:18:57.830987+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 18时11分]"
+          "appearance_count": 9,
+          "time_info": "[07时01分 ~ 20时18分]"
         },
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 20时18分]"
         },
         {
           "title": "特朗普放话：伊朗不求饶，海峡不解封",
@@ -73,8 +73,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 20时18分]"
+        },
+        {
+          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
+          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 20时18分]"
         },
         {
           "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
@@ -83,17 +94,6 @@
           "ranks": [
             5,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时11分]"
-        },
-        {
-          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
-          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -114,16 +114,19 @@
           "time_info": "[01时43分 ~ 08时05分]"
         },
         {
-          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
-          "url": "https://www.cls.cn/detail/2360318",
-          "source": "财联社热门",
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            1
+            14,
+            15,
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 12时36分]"
+          "appearance_count": 9,
+          "time_info": "[07时01分 ~ 20时18分]"
         },
         {
           "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
@@ -134,22 +137,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 20时18分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            15,
-            12,
-            10
+            10,
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 20时18分]"
+        },
+        {
+          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
+          "url": "https://www.cls.cn/detail/2360318",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 12时36分]"
         },
         {
           "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
@@ -184,19 +199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时05分 ~ 12时36分]"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时11分]"
         },
         {
           "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
@@ -359,6 +361,41 @@
           "time_info": "[12时35分 ~ 12时36分]"
         },
         {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 20时18分]"
+        },
+        {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 20时18分]"
+        },
+        {
+          "title": "俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动",
+          "url": "https://wallstreetcn.com/livenews/3097479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "“特朗普关税”首批退款将于5月11日左右发放",
           "url": "https://flash.jin10.com/detail/20260430075351879800",
           "source": "金十数据",
@@ -390,17 +427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         },
         {
           "title": "特朗普称或削减驻德美军",
@@ -458,15 +484,15 @@
           "time_info": "03时45分"
         },
         {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
           "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "20时18分"
         },
         {
           "title": "普京与特朗普通话超一个半小时",
@@ -585,7 +611,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -626,8 +652,23 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时01分 ~ 20时18分]"
+        },
         {
           "title": "伊朗男孩重回中国上学全班紧紧抱住",
           "url": "https://www.toutiao.com/trending/7633313371160464950/",
@@ -651,21 +692,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 05时12分]"
-        },
-        {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 18时11分]"
         },
         {
           "title": "伊朗：将以前所未有军事行动回应美",
@@ -705,6 +731,19 @@
           "time_info": "[01时43分 ~ 07时02分]"
         },
         {
+          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032954547836907965",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 20时18分]"
+        },
+        {
           "title": "外媒：美国计划在中东部署高超音速导弹，以备打击伊朗",
           "url": "https://flash.jin10.com/detail/20260430062722756800",
           "source": "金十数据",
@@ -733,7 +772,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -747,19 +786,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032954547836907965",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时11分]"
         },
         {
           "title": "伊朗议长呼吁民众保持团结挫败敌人阴谋",
@@ -795,6 +821,18 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
+          "url": "https://www.cls.cn/detail/2360722",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 20时18分]"
+        },
+        {
           "title": "伊朗战争丨伊朗议长：敌人正发起新一轮攻势，我们要团结",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -822,18 +860,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时11分]"
-        },
-        {
-          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
-          "url": "https://www.cls.cn/detail/2360722",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -883,6 +909,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "伊朗战争丨穆杰塔巴：伊朗将行使海峡管理权，波斯湾未来没有美国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。",
@@ -940,6 +977,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "伊朗总统佩泽希齐扬对日本首相高市早苗表示，海湾的不安全是由美国和以色列造成的，必须停止并谴责针对伊朗船只的“美国海盗行为”。",
+          "url": "https://flash.jin10.com/detail/20260430200724468800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "伊朗海军司令警告美军“勿进一步行动”",
           "url": "https://wallstreetcn.com/livenews/3096940",
           "source": "华尔街见闻-快讯",
@@ -995,6 +1043,39 @@
           "time_info": "05时12分"
         },
         {
+          "title": "伊朗总统佩泽希齐扬告诉日本首相高市早苗，一旦华盛顿改变其行为，德黑兰就准备重启外交途径。",
+          "url": "https://flash.jin10.com/detail/20260430200401603800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问：伊朗绝不会失去霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3097472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "据《华盛顿检查者报》记者：一名高级官员告诉我，白宫正在就今天请求30天伊朗战争重新授权的最后期限与国会立法者进行积极对话。",
+          "url": "https://flash.jin10.com/detail/20260430200241207800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "比尔·阿克曼：在资本市场，我们有庞大的追随者基数。 对市场而言，伊朗局势是（悬在头上）最大的风险。 我们处于一个“愚蠢的、廉价的市场底部”的上方。 投资IPO将需要数周时间，而非数月。",
           "url": "https://wallstreetcn.com/livenews/3096820",
           "source": "华尔街见闻-快讯",
@@ -1034,7 +1115,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -1048,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：伊朗不畏惧海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3097463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美国国防部长赫格塞斯表示：伊朗战争并非泥潭，美国民主党议员的批评是亲手送给伊朗的一场宣传胜利。",
@@ -1083,13 +1175,24 @@
           "time_info": "08时05分"
         },
         {
+          "title": "伊朗最高领袖：伊朗将确保波斯湾区域的安全",
+          "url": "https://wallstreetcn.com/livenews/3097456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "伊朗确定国家利益委员会委员穆罕默德·穆赫贝尔：当全球20%的石油和超过18万亿立方米的天然气掌握在我们手中时，海上封锁不会将伊朗拖回石器时代；相反，这必将使统治体系陷入冰河时代。",
           "url": "https://flash.jin10.com/detail/20260430174144610800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -1108,7 +1211,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -1167,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时31分 ~ 18时11分]"
+        },
+        {
+          "title": "七巨头财报提振美股，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "高通美股盘后涨幅扩大至10%。",
@@ -1271,8 +1385,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 20时18分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 20时18分]"
         },
         {
           "title": "电话会：谷歌母公司Alphabet上调2026年资本开支预期至1800亿-1900亿美元。",
@@ -1286,27 +1413,16 @@
           "time_info": "05时12分"
         },
         {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 18时11分]"
-        },
-        {
           "title": "谷歌入驻广州珠江新城",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%85%A5%E9%A9%BB%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 20时18分]"
         },
         {
           "title": "Alphabet(GOOGL.O)CEO：谷歌云业务正迎来强劲的交易势头。",
@@ -1484,6 +1600,62 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
+          "url": "https://www.zhihu.com/question/2032851960177631968",
+          "source": "知乎",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 08时05分]"
+        },
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            14,
+            12,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时43分 ~ 20时18分]"
+        },
+        {
+          "title": "DeepSeek破底价,友商瑟瑟发抖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1517,11 +1689,12 @@
           "url": "https://www.douyin.com/hot/2482875",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 20时18分]"
         },
         {
           "title": "鲍威尔把问题丢给油价，金价多头最大的敌人转换！",
@@ -1533,40 +1706,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
-          "url": "https://www.zhihu.com/question/2032851960177631968",
-          "source": "知乎",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 08时05分]"
-        },
-        {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14,
-            12,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时43分 ~ 18时11分]"
         }
       ]
     },
@@ -1611,8 +1750,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 18时11分]"
+          "appearance_count": 9,
+          "time_info": "[07时01分 ~ 20时18分]"
         }
       ]
     }
