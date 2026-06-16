@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-06-17T03:49:04.307195+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-06-17T06:17:58.935836+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
           "url": "https://www.zhihu.com/question/2050229682415613269",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
@@ -37,19 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
-        },
-        {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
@@ -60,8 +51,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
+        },
+        {
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "伊朗副总统：德黑兰将维持对霍尔木兹海峡的控制权",
@@ -70,7 +73,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -81,7 +84,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -92,7 +95,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -101,11 +104,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "伊朗队突然被勒令离开美国",
@@ -113,11 +117,24 @@
           "source": "今日头条",
           "ranks": [
             13,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
+        },
+        {
+          "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389618",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "国际足联主席到更衣室探望伊朗球员",
@@ -132,16 +149,27 @@
           "time_info": "[00时01分 ~ 03时49分]"
         },
         {
-          "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389618",
+          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            16
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 06时17分]"
+        },
+        {
+          "title": "美政府或将为伊朗设3000亿美元基金",
+          "url": "https://www.toutiao.com/trending/7650825259012227118/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 06时17分]"
         },
         {
           "title": "伊朗队被勒令离开美国",
@@ -155,17 +183,6 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 03时49分]"
-        },
-        {
           "title": "媒体：伊朗踢个球美国如临大敌",
           "url": "https://www.toutiao.com/trending/7651933802163342902/",
           "source": "今日头条",
@@ -175,17 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "美政府或将为伊朗设3000亿美元基金",
-          "url": "https://www.toutiao.com/trending/7650825259012227118/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 03时49分]"
         },
         {
           "title": "据CNN：三位知情人士透露，美国情报机构近期评估认为，伊朗从现在起能够随时有效地切断霍尔木兹海峡的通行；这意味着，受战争影响，伊朗已获得了一项能够影响全球经济的强大新能力。",
@@ -221,13 +227,24 @@
           "time_info": "00时02分"
         },
         {
+          "title": "沙特阿拉比亚电视台发布了伊美14点谅解备忘录的条款，较伊朗迈赫尔通讯社发布版本更为详细。",
+          "url": "https://wallstreetcn.com/livenews/3120499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
           "url": "https://wallstreetcn.com/livenews/3120455",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -238,7 +255,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -249,7 +266,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -260,7 +277,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         }
@@ -268,7 +285,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -278,8 +295,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
@@ -290,8 +307,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "据Politico：两位知情人士透露，2028年洛杉矶奥运会的组织者正与特朗普政府合作，计划在夏季奥运会前夕于洛杉矶特朗普国家高尔夫俱乐部举办一场锦标赛。这凸显了组织者认为与白宫保持良好关系对于成功举办奥运会至关重要。",
@@ -299,17 +316,6 @@
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美国联邦登记处公布总统特朗普6月11日的备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3120410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -324,8 +330,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
@@ -335,8 +341,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
+        },
+        {
+          "title": "美国联邦登记处公布总统特朗普6月11日的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3120410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "特朗普称没有美国以色列早不存在了",
@@ -348,6 +365,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时48分 ~ 03时49分]"
+        },
+        {
+          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
+          "url": "https://wallstreetcn.com/livenews/3120506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "总统备忘录显示，特朗普以生产能力有限及供应链脆弱为由，启动《国防生产法》。",
@@ -370,12 +398,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普称美伊协议已签署",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -385,8 +424,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -397,8 +436,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -413,6 +452,17 @@
           "time_info": "[00时01分 ~ 03时49分]"
         },
         {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
           "url": "https://www.zhihu.com/question/2049776018660103123",
           "source": "知乎",
@@ -420,8 +470,41 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
+        },
+        {
+          "title": "投资者权衡美伊协议，拉美股汇走势分化",
+          "url": "https://wallstreetcn.com/livenews/3120500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
+          "url": "https://wallstreetcn.com/livenews/3120490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
+          "url": "https://wallstreetcn.com/livenews/3120489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -435,22 +518,24 @@
           "source": "今日头条",
           "ranks": [
             1,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时17分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://www.toutiao.com/trending/7651579346738855979/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 06时17分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -476,7 +561,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -490,6 +575,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
+          "url": "https://wallstreetcn.com/livenews/3120501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
+          "url": "https://flash.jin10.com/detail/20260617051721170800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     }
