@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-19T06:58:51.302448+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-06-19T09:49:06.621053+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗称要成为中国真正的伙伴，外交部表态",
           "url": "https://news.ifeng.com/c/8u3juhtDVpR",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 09时49分]"
         },
         {
           "title": "透露伊朗最高领袖罕见涉华举动，伊中商会会长答凤凰",
@@ -26,8 +27,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 09时49分]"
+        },
+        {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
+          "url": "https://wallstreetcn.com/articles/3775058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "【伊朗最高领袖将就伊美谅解备忘录表态】伊朗最高领袖穆杰塔巴·哈梅内伊将于数小时后就旨在结束战争的伊美谅解备忘录发布重要信息。（央视）",
@@ -41,6 +64,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "伊朗表示伊美谅解备忘录签署后仍将坚守底线",
+          "url": "https://wallstreetcn.com/livenews/3121956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "伊朗议长称霍尔木兹海峡「永远不会回到以前的状态」，伊朗会在霍尔木兹海峡收取「服务费用」，有何影响？",
           "url": "https://www.zhihu.com/question/2050871601684550857",
           "source": "知乎",
@@ -52,6 +86,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 06时58分]"
+        },
+        {
+          "title": "伊朗最高领袖对伊美备忘录持不同意见",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%AF%B9%E4%BC%8A%E7%BE%8E%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%81%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "伊朗称要成为中国真正合作伙伴",
@@ -75,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美国副总统万斯暂不赴瑞士与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3121951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "据伊朗国家电视台：伊朗最高领袖将很快就谅解备忘录发表讲话。",
@@ -105,7 +172,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -127,7 +194,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -138,7 +205,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -149,7 +216,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -193,7 +260,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -237,7 +304,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -256,8 +323,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "特朗普吐露的真相，比战争结局更让人警醒",
+          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
         {
           "title": "美国总统特朗普：美国没有向伊朗支付3000亿美元。这是假新闻！美国只有成功、低油价和胜利。看看股市。民主党宣传在作祟！！！",
           "url": "https://flash.jin10.com/detail/20260619005025619800",
@@ -280,6 +358,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 06时58分]"
+        },
+        {
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 09时49分]"
+        },
+        {
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
+          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 09时49分]"
         },
         {
           "title": "美学者：特朗普凡尔赛签约离谱至极",
@@ -324,29 +426,6 @@
           "ranks": [
             9,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 06时58分]"
-        },
-        {
-          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
-          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 06时58分]"
-        },
-        {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -426,7 +505,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         }
@@ -434,8 +513,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 09时49分]"
+        },
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
           "url": "https://wallstreetcn.com/articles/3774887",
@@ -448,16 +540,15 @@
           "time_info": "[01时20分 ~ 06时58分]"
         },
         {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 06时58分]"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -532,7 +623,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -543,7 +634,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -554,7 +645,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -565,7 +656,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         }
@@ -623,18 +714,30 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
           "url": "https://wallstreetcn.com/articles/3774963",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 09时49分]"
+        },
+        {
+          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404205",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
@@ -670,11 +773,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 09时49分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
@@ -683,9 +787,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         }
       ]
     }
