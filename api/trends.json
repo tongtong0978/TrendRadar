@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T17:12:51.359036+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-07-17T19:24:53.140415+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -129,6 +129,18 @@
           "time_info": "[01时24分 ~ 05时06分]"
         },
         {
+          "title": "伊朗：造成大量美军人员死亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%80%A0%E6%88%90%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 19时24分]"
+        },
+        {
           "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2428979",
           "source": "财联社热门",
@@ -162,6 +174,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.toutiao.com/trending/7663410168377380371/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "伊朗革命卫队称打击美军驻科威特军事基地",
           "url": "https://wallstreetcn.com/livenews/3135494",
           "source": "华尔街见闻-快讯",
@@ -173,24 +196,13 @@
           "time_info": "14时21分"
         },
         {
-          "title": "伊朗：造成大量美军人员死亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%80%A0%E6%88%90%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "科威特电力部：电力和海水淡化厂在伊朗袭击中受损。",
           "url": "https://flash.jin10.com/detail/20260717165850899800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -212,7 +224,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -248,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "伊朗革命卫队打击卡塔尔美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美国连续第六晚打击伊朗",
@@ -303,6 +326,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "科威特外交部：伊朗对电站的攻击是对主权的侵犯，继续这种侵略性行为将是严重升级。",
+          "url": "https://flash.jin10.com/detail/20260717190522239800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "伊朗革命卫队：攻击平民和非民用基础设施将付出极其沉重和毁灭性的代价。",
+          "url": "https://flash.jin10.com/detail/20260717190507730800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "科威特外交部：我们谴责伊朗的侵略行为，该行为针对电站，造成发电单元受损。",
+          "url": "https://flash.jin10.com/detail/20260717190411893800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "据伊朗官方媒体报道，伊朗革命卫队表示，位于阿曼的美军海上监视雷达成为打击目标。",
@@ -366,7 +422,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -454,9 +510,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        },
+        {
+          "title": "伊朗沙赫尔市市长：美国袭击造成的损毁修复工作正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260717185333094800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "伊朗重申与海湾邻国不存在敌对关系",
@@ -480,11 +547,12 @@
           "url": "https://wallstreetcn.com/articles/3777075",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 19时24分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -671,7 +739,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         }
@@ -690,8 +758,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 19时24分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -711,9 +779,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 19时24分]"
         },
         {
           "title": "白宫：美国总统特朗普明天（当地时间周五）将前往纽约。",
@@ -778,7 +846,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -969,7 +1037,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -981,8 +1049,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 19时24分]"
         },
         {
           "title": "长期AI怀疑论者：OpenAI恐成为AI时代的“雷曼兄弟”",
@@ -1002,7 +1070,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1027,6 +1095,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "一些现就职于OpenAI的前苹果员工收到了法律信函。（英国《金融时报》）",
+          "url": "https://wallstreetcn.com/livenews/3135650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "瑞银资产管理高管看空美债 认为德债是极佳的防御性配置选择",
+          "url": "https://wallstreetcn.com/livenews/3135669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "美债大多头倒戈！霍伊辛顿投资30年来首度看空美国国债",
+          "url": "https://flash.jin10.com/detail/20260717134005819800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "美债收益率普遍涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3135247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         }
       ]
     },
@@ -1084,8 +1202,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 17时12分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 19时24分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -1099,34 +1217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 05时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美债大多头倒戈！霍伊辛顿投资30年来首度看空美国国债",
-          "url": "https://flash.jin10.com/detail/20260717134005819800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "美债收益率普遍涨超1个基点",
-          "url": "https://wallstreetcn.com/livenews/3135247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
         }
       ]
     },
