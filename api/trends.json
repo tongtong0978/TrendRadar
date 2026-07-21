@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-21T11:37:31.456296+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-07-21T14:35:18.665885+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
+        },
+        {
+          "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
+          "url": "https://news.ifeng.com/c/8uwFQqRkygA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
+        },
         {
           "title": "伊朗驻法国大使馆：（关于霍尔木兹海峡）美国持续施压和发出威胁无助于保障航运安全，与伊朗在相互尊重基础上开展接触，才是实现地区稳定的途径。",
           "url": "https://flash.jin10.com/detail/20260721015842673800",
@@ -25,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -39,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
-          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗伊斯法罕省副省长表示，今晚该省未发生爆炸。",
@@ -85,6 +96,18 @@
           "time_info": "06时05分"
         },
         {
+          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
+          "url": "https://wallstreetcn.com/articles/3777457",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时35分]"
+        },
+        {
           "title": "“伊朗安全部门扣留法国2名外交人员”",
           "url": "https://news.ifeng.com/c/8uvMVD6vcSP",
           "source": "凤凰网",
@@ -96,27 +119,16 @@
           "time_info": "[02时09分 ~ 08时01分]"
         },
         {
-          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
-          "url": "https://wallstreetcn.com/articles/3777457",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时37分]"
-        },
-        {
           "title": "伊朗海军同时从3个方向猛烈打击美军",
           "url": "https://www.toutiao.com/trending/7663674772672512009/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时35分]"
         },
         {
           "title": "“全面战争”！伊朗总统最新发声",
@@ -125,9 +137,44 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
+        },
+        {
+          "title": "伊朗外长：到目前还没见过新最高领袖",
+          "url": "https://news.ifeng.com/c/8uuww5IdaID",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
+        },
+        {
+          "title": "一油化船在霍尔木兹海峡附近遭袭 美军称对伊朗发动新一轮打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2431950",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
+        },
+        {
+          "title": "美军伤亡不断攀升 美国如何报复伊朗",
+          "url": "https://www.toutiao.com/trending/7664792452200500746/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
         },
         {
           "title": "科威特军方表示，防空系统目前正在拦截伊朗的导弹和无人机。",
@@ -152,17 +199,6 @@
           "time_info": "06时05分"
         },
         {
-          "title": "伊朗外长：到目前还没见过新最高领袖",
-          "url": "https://news.ifeng.com/c/8uuww5IdaID",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
           "title": "伊朗内政部长访巴基斯坦 推进经贸合作并讨论地区局势",
           "url": "https://flash.jin10.com/detail/20260721033922832800",
           "source": "金十数据",
@@ -172,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：军方消息人士表示，霍尔木兹海峡的完全控制权掌握在伊朗武装力量手中；关于是否重新开放或继续限制这一通道的任何决定，均将基于安全考虑和国家利益作出。",
+          "url": "https://flash.jin10.com/detail/20260721141741206800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "伊朗外长阿拉格齐祝贺哈马斯新领导人哈利勒·哈亚当选，重申伊朗将继续支持巴勒斯坦相关行动。",
@@ -194,17 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "一油化船在霍尔木兹海峡附近遭袭 美军称对伊朗发动新一轮打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2431950",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "伊朗军方发射多枚导弹，打击科威特境内目标Camp Arifjan（阿里夫坚军营）。（伊朗官方媒体IRIB）",
@@ -240,6 +276,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "据伊朗法尔斯通讯社：军方消息人士表示，只要美国的敌对行动持续，霍尔木兹海峡的局势就不会改变，也不会向船只发放通过这一战略通道的许可。",
+          "url": "https://flash.jin10.com/detail/20260721141352972800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会副秘书巴盖里表示，霍尔木兹海峡这一“杠杆”对伊朗具有决定性意义，伊朗在这一问题上不会作出任何妥协。",
           "url": "https://flash.jin10.com/detail/20260721032221695800",
           "source": "金十数据",
@@ -260,17 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
-        },
-        {
-          "title": "美军伤亡不断攀升 美国如何报复伊朗",
-          "url": "https://www.toutiao.com/trending/7664792452200500746/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗最高国家安全委员会副秘书巴盖里表示，美国尚未采取行动解冻伊朗被冻结资产，并已违反其承诺。",
@@ -356,7 +392,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -425,12 +461,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "伊朗称打击科威特境内三处美军基地",
+          "url": "https://wallstreetcn.com/livenews/3137336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -442,6 +489,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 08时01分]"
+        },
+        {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
         },
         {
           "title": "消息人士：各方正展开外交努力，试图劝告特朗普政府不要切断与联合国难民署的联系。",
@@ -464,17 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
-          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "白宫：特朗普签署公告，授权商务部长制定激励计划，鼓励企业投资铝冶炼厂。",
@@ -528,9 +575,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
+        },
+        {
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
+        },
+        {
+          "title": "舒默称特朗普是美国史上最腐败总统",
+          "url": "https://www.toutiao.com/trending/7663682649068109887/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "白宫：特朗普采取进一步措施，调整美国铝进口政策。",
@@ -575,17 +644,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
-        },
-        {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
@@ -682,7 +740,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -693,7 +751,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -766,8 +824,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时35分]"
+        },
+        {
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时35分]"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时35分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -779,18 +862,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 04时25分]"
-        },
-        {
-          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
-          "url": "https://www.cls.cn/detail/2431956",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时37分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -813,18 +884,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时37分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -891,7 +950,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -910,7 +969,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -948,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 08时01分]"
+        },
+        {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         }
       ]
     },
@@ -962,9 +1032,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -973,9 +1043,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -1001,7 +1071,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -1010,22 +1080,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
         },
         {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 14时35分]"
         }
       ]
     },
@@ -1070,8 +1142,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "双线资本逆势看好短期美债：沃什的“鹰派信誉”就是最强紧缩武器！",
+          "url": "https://flash.jin10.com/detail/20260721141900706800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
         {
           "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
           "url": "https://wallstreetcn.com/livenews/3137053",
