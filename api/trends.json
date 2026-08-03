@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T12:34:54.225004+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-08-03T16:34:12.509714+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -25,9 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 16时34分]"
         },
         {
           "title": "伊朗回应打击巴林亚马逊数据中心",
@@ -263,6 +263,17 @@
           "time_info": "[05时01分 ~ 06时06分]"
         },
         {
+          "title": "伊朗否认与美谈判",
+          "url": "https://www.toutiao.com/trending/7669703499558424083/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
           "title": "伊朗外交部发言人：对方知道，我们对任何针对我们的冒险行为将作出强烈回应。",
           "url": "https://flash.jin10.com/detail/20260803005027684800",
           "source": "金十数据",
@@ -302,9 +313,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "伊朗称已与阿曼讨论开辟新的霍尔木兹海峡航线",
+          "url": "https://flash.jin10.com/detail/20260803161855937800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "伊朗外交部发言人：美国与地区部分势力合作，在霍尔木兹海峡强行开辟了一条南部航线，该航线并不安全。",
@@ -439,6 +461,61 @@
           "time_info": "01时06分"
         },
         {
+          "title": "伊朗否认与美谈判",
+          "url": "https://wallstreetcn.com/livenews/3143980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "欧洲央行称伊朗战争重创欧元区消费，信心下滑拖累经济增长",
+          "url": "https://flash.jin10.com/detail/20260803160753225800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "伊朗：我们目前没有与美国进行谈判。 正在与阿曼就霍尔木兹海峡通行问题举行谈判。 伊朗与美国之间的问题应在稍后阶段解决。",
+          "url": "https://wallstreetcn.com/livenews/3143976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "金十整理：伊朗与阿曼关于霍尔木兹海峡的谈判情况一览",
+          "url": "https://flash.jin10.com/detail/20260803160600377800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "伊朗外交部：近日无接待或派遣代表团的计划",
+          "url": "https://flash.jin10.com/detail/20260803160552599800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "海湾国家对美国缺乏针对伊朗的战略感到不满",
           "url": "https://flash.jin10.com/detail/20260802234110526800",
           "source": "金十数据",
@@ -486,7 +563,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -536,6 +613,28 @@
           "time_info": "[01时05分 ~ 08时03分]"
         },
         {
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
           "url": "https://www.zhihu.com/question/2067198062456463879",
           "source": "知乎",
@@ -553,9 +652,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 16时34分]"
         },
         {
           "title": "特朗普称美伊3日将举行谈判",
@@ -587,7 +698,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -598,7 +709,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -663,6 +774,17 @@
           "time_info": "[03时18分 ~ 05时01分]"
         },
         {
+          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
+          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
           "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
           "url": "https://flash.jin10.com/detail/20260803013751190800",
           "source": "金十数据",
@@ -707,17 +829,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
         },
         {
           "title": "特朗普：美伊谈判明日启动 霍尔木兹海峡已有协议",
@@ -899,7 +1010,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -942,13 +1053,24 @@
           "time_info": "[05时01分 ~ 08时03分]"
         },
         {
+          "title": "全球大模型进入DeepSeek斩杀区",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E5%85%A5DeepSeek%E6%96%A9%E6%9D%80%E5%8C%BA&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
           "title": "DeepSeek-V4-Flash正式版API登陆国家超算互联网",
           "url": "https://flash.jin10.com/detail/20260803113453343800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
@@ -956,7 +1078,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -971,15 +1093,65 @@
           "time_info": "[01时05分 ~ 12时34分]"
         },
         {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
           "url": "https://www.zhihu.com/question/2066921241156523798",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 08时03分]"
+        },
+        {
+          "title": "摩根大通警告：美股“挤水分”进入下半场，但抄底时机未到",
+          "url": "https://flash.jin10.com/detail/20260803162828608800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "8月股票配置调整：日本以外亚洲市场有吸引力，美股......",
+          "url": "https://flash.jin10.com/detail/20260803161423014800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
@@ -994,7 +1166,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -1005,7 +1177,35 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
+          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
+          "url": "https://flash.jin10.com/detail/20260803115620374800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
@@ -1022,43 +1222,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
-          "url": "https://flash.jin10.com/detail/20260803115620374800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 08时03分]"
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     }
