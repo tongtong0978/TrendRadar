@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:48:58.215845+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-08-08T17:43:39.470567+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -35,22 +35,24 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时38分 ~ 16时48分]"
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 17时43分]"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
           "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 17时43分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：尽管美国和以色列政权通过阴谋以及最近的战争，试图在伊朗与波斯湾沿岸国家之间制造分歧，但我们已经解决了与许多邻国之间的诸多问题。",
@@ -104,6 +106,17 @@
           "time_info": "[07时38分 ~ 15时02分]"
         },
         {
+          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
+          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：我们不会屈服于强权，但也不寻求战争和侵略。",
           "url": "https://flash.jin10.com/detail/20260808025156100800",
           "source": "金十数据",
@@ -113,17 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
-        },
-        {
-          "title": "伊朗总统称敌人未能将伊朗推入崩溃",
-          "url": "https://wallstreetcn.com/livenews/3146979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
         },
         {
           "title": "伊朗德黑兰市长扎卡尼：伊朗不会放弃追求正义，直到对罪犯实施最终惩罚。",
@@ -148,6 +150,20 @@
           "time_info": "03时04分"
         },
         {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 17时43分]"
+        },
+        {
           "title": "伊朗德黑兰市长扎卡尼：想通过霍尔木兹海峡，必须取消制裁并支付赔偿。",
           "url": "https://flash.jin10.com/detail/20260807234805603800",
           "source": "金十数据",
@@ -159,17 +175,16 @@
           "time_info": "00时02分"
         },
         {
-          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://flash.jin10.com/detail/20260808144535599800",
-          "source": "金十数据",
+          "title": "伊朗总统称敌人未能将伊朗推入崩溃",
+          "url": "https://wallstreetcn.com/livenews/3146979",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            6,
+            2,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 16时48分]"
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时43分]"
         },
         {
           "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
@@ -204,6 +219,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时47分 ~ 07时38分]"
+        },
+        {
+          "title": "曝美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://www.toutiao.com/trending/7671436241469538350/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时43分]"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://wallstreetcn.com/livenews/3146980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时43分]"
+        },
+        {
+          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
+          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时43分]"
         },
         {
           "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
@@ -241,17 +291,6 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
-          "title": "曝美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://www.toutiao.com/trending/7671436241469538350/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
           "title": "据伊通社（IRNA）：伊朗副外长表示，海湾安全必须由地区国家确保，无需外部干涉。",
           "url": "https://flash.jin10.com/detail/20260807234249085800",
           "source": "金十数据",
@@ -274,17 +313,6 @@
           "time_info": "03时04分"
         },
         {
-          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://wallstreetcn.com/livenews/3146980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
           "title": "美国将13个实体列入涉伊朗制裁名单。",
           "url": "https://flash.jin10.com/detail/20260808023650709800",
           "source": "金十数据",
@@ -305,17 +333,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
-          "url": "https://www.zhihu.com/question/2069252730074485781",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
         },
         {
           "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。 美国财长贝森特声称：“伊朗政权对数字资产与影子银行网络的依赖，进一步证明经济制裁正在奏效。我们将继续加大经济施压力度。无论是美元、里亚尔还是加密货币，财政部都将追查并瓦解维系该政权运转的非法金融网络。”",
@@ -398,7 +415,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -413,6 +430,20 @@
           "time_info": "[09时56分 ~ 16时48分]"
         },
         {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时02分 ~ 17时43分]"
+        },
+        {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
           "source": "澎湃新闻",
@@ -424,21 +455,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时47分 ~ 16时48分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 16时48分]"
+          "appearance_count": 15,
+          "time_info": "[04时47分 ~ 17时43分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -617,6 +635,17 @@
           "time_info": "[13时02分 ~ 13时03分]"
         },
         {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
           "url": "https://flash.jin10.com/detail/20260807234317790800",
           "source": "金十数据",
@@ -626,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
@@ -755,6 +795,19 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 17时43分]"
+        },
+        {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
           "url": "https://wallstreetcn.com/articles/3778821",
           "source": "华尔街见闻",
@@ -764,20 +817,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 06时42分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时41分 ~ 16时48分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -791,21 +830,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时01分 ~ 16时48分]"
+          "appearance_count": 20,
+          "time_info": "[00时01分 ~ 17时43分]"
         },
         {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
           "ranks": [
+            10,
+            4,
             3,
-            2,
-            1
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 16时48分]"
+          "appearance_count": 13,
+          "time_info": "[06时41分 ~ 17时43分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -884,11 +925,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时43分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -950,11 +992,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 16时48分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 17时43分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -983,8 +1026,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时47分 ~ 16时48分]"
+          "appearance_count": 15,
+          "time_info": "[04时47分 ~ 17时43分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -1084,8 +1127,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时01分 ~ 16时48分]"
+          "appearance_count": 20,
+          "time_info": "[00时01分 ~ 17时43分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -1145,8 +1188,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 17时43分]"
         }
       ]
     },
