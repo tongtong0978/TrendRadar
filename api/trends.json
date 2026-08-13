@@ -1,11 +1,350 @@
 {
-  "generated_at": "2026-08-13T18:13:19.499030+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-08-13T19:52:29.221742+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时21分 ~ 19时52分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时03分 ~ 10时22分]"
+        },
+        {
+          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 06时48分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 19时52分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时56分]"
+        },
+        {
+          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
+          "url": "https://www.zhihu.com/question/2070810807168980648",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时03分 ~ 10时22分]"
+        },
+        {
+          "title": "DeepSeek官宣涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://wallstreetcn.com/livenews/3149148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek重磅更新 V4Pro正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "梁文锋打新宇树科技有望浮盈超7亿",
+          "url": "https://www.toutiao.com/trending/7673280015613627950/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 10时22分]"
+        },
+        {
+          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时03分 ~ 06时48分]"
+        },
+        {
+          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时56分]"
+        },
+        {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 07时48分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时52分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://wallstreetcn.com/livenews/3148768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek最新版本藏了一个大招",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E8%97%8F%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%8B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时21分 ~ 10时22分]"
+        },
+        {
+          "title": "快把真正的DeepSeek V4 Pro还给我",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "DeepSeek调价方案公布，8月17日生效",
+          "url": "https://wallstreetcn.com/livenews/3149142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API上线",
+          "url": "https://www.toutiao.com/trending/7673284418319945259/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://flash.jin10.com/detail/20260813050715033800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版突遭撤回",
+          "url": "https://wallstreetcn.com/livenews/3149137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "DeepSeek调价方案公布，8月17日生效",
+          "url": "https://flash.jin10.com/detail/20260813192316309800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "万邦医药：除API接入外，公司未与DeepSeek公司开展任何业务合作",
+          "url": "https://flash.jin10.com/detail/20260813191329389800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版突遭撤回",
+          "url": "https://flash.jin10.com/detail/20260813190945810800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
+          "url": "https://wallstreetcn.com/livenews/3148708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://www.douyin.com/hot/2607669",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "梁文锋、马斯克同日上新",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -66,6 +405,19 @@
           "time_info": "04时03分"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 19时52分]"
+        },
+        {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将辞去职务，以便能有更多时间陪伴家人。",
           "url": "https://flash.jin10.com/detail/20260813033648092800",
           "source": "金十数据",
@@ -75,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
@@ -160,18 +523,6 @@
           "time_info": "[04时03分 ~ 06时48分]"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 18时13分]"
-        },
-        {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
           "source": "凤凰网",
@@ -179,8 +530,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时52分]"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时52分]"
+        },
+        {
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时52分]"
         },
         {
           "title": "特朗普签署备忘录，针对跨国网络犯罪",
@@ -193,28 +568,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时48分]"
-        },
-        {
-          "title": "美新闻机构起诉特朗普",
-          "url": "https://www.douyin.com/hot/2607917",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "特朗普：我想谋求第三任期，但美国法律太严",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "每月最高10万美元卖“时间差”，特朗普被诉违宪！",
@@ -318,240 +671,200 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 20,
+      "keyword_group": "美股",
+      "match_count": 17,
       "titles": [
         {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时03分 ~ 10时22分]"
-        },
-        {
-          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 06时48分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时48分 ~ 18时13分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时21分 ~ 18时13分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
+            7,
+            4,
             3,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时21分 ~ 12时56分]"
+          "appearance_count": 9,
+          "time_info": "[06时47分 ~ 19时52分]"
         },
         {
-          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
-          "url": "https://www.zhihu.com/question/2070810807168980648",
-          "source": "知乎",
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
           "ranks": [
-            15
+            8,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时03分 ~ 10时22分]"
+          "appearance_count": 6,
+          "time_info": "[06时47分 ~ 12时56分]"
         },
         {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时03分 ~ 07时48分]"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时03分]"
         },
         {
-          "title": "DeepSeek重磅更新 V4Pro正式版上线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
+          "title": "李大霄提醒警惕美股泡沫爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "梁文锋打新宇树科技有望浮盈超7亿",
-          "url": "https://www.toutiao.com/trending/7673280015613627950/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时22分]"
-        },
-        {
-          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
-          "url": "https://www.zhihu.com/question/2071019389479023642",
-          "source": "知乎",
-          "ranks": [
-            7,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 06时48分]"
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
-          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
-          "url": "https://www.zhihu.com/question/2071019389479023642",
-          "source": "知乎",
+          "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            14
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时21分 ~ 12时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
-          "title": "DeepSeek发布V4Pro正式版",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 07时48分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://wallstreetcn.com/livenews/3148768",
+          "title": "Tapestry美股盘前跌超10%，公司此前公布了第四财季财报。",
+          "url": "https://wallstreetcn.com/livenews/3149131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            22
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
-          "title": "DeepSeek最新版本藏了一个大招",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E8%97%8F%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%8B%9B",
+          "title": "美股AI算力和存储芯片爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%AE%97%E5%8A%9B%E5%92%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91",
           "source": "百度热搜",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时21分 ~ 10时22分]"
-        },
-        {
-          "title": "快把真正的DeepSeek V4 Pro还给我",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API上线",
-          "url": "https://www.toutiao.com/trending/7673284418319945259/",
-          "source": "今日头条",
-          "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
         {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://flash.jin10.com/detail/20260813050715033800",
-          "source": "金十数据",
+          "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
+          "url": "https://wallstreetcn.com/livenews/3148756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
         {
-          "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
-          "url": "https://wallstreetcn.com/livenews/3148708",
+          "title": "Tapestry第四财季净销售额18.8亿美元，预期18.7亿美元。 第四财季调整后每股收益1.32美元，预期1.27美元。 第四财季调整后营业利润3.62亿美元，同比增长25%。 Tapestry预计2027财年调整后每股收益为7.80至7.90美元，市场预期7.87美元。 Tapestry美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3149125",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260813003439020800",
+          "source": "金十数据",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
         {
-          "title": "DeepSeek发布V4Pro正式版",
-          "url": "https://www.douyin.com/hot/2607669",
+          "title": "美股三大指数集体高开",
+          "url": "https://www.douyin.com/hot/2607617",
           "source": "抖音",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时56分"
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美股三大指数涨跌不一，微软跌逾2%，领跌道指",
+          "url": "https://wallstreetcn.com/livenews/3148752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "保险科技公司Accelerant美股盘前涨超45%，报道称该公司将被软件投资机构Thoma Bravo以每股20.25美元的价格私有化。",
+          "url": "https://wallstreetcn.com/livenews/3149117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260813040557554800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
+          "url": "https://wallstreetcn.com/livenews/3148701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260813040554059800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "京东美股盘前跌幅扩大至逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3149113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -639,8 +952,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时52分]"
         },
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -650,8 +963,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时52分]"
         },
         {
           "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
@@ -671,7 +984,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -715,7 +1028,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -726,152 +1039,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时47分 ~ 18时13分]"
-        },
-        {
-          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
-          "url": "https://www.cls.cn/detail/2452897",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时47分 ~ 12时56分]"
-        },
-        {
-          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时03分]"
-        },
-        {
-          "title": "李大霄提醒警惕美股泡沫爆破",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "美股AI算力和存储芯片爆发",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%AE%97%E5%8A%9B%E5%92%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
-          "url": "https://wallstreetcn.com/livenews/3148756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260813003439020800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.douyin.com/hot/2607617",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "美股三大指数涨跌不一，微软跌逾2%，领跌道指",
-          "url": "https://wallstreetcn.com/livenews/3148752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040557554800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
-          "url": "https://wallstreetcn.com/livenews/3148701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040554059800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
         }
       ]
     },
@@ -951,7 +1121,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
@@ -964,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 18时13分]"
+        },
+        {
+          "title": "英国央行料AI泡沫破裂恐使资金同时撤出美股美债 对英国产生连带冲击",
+          "url": "https://wallstreetcn.com/livenews/3149151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
@@ -1002,7 +1183,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -1026,6 +1207,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时21分 ~ 12时56分]"
+        },
+        {
+          "title": "宏观环境支撑国际金价 LBMA年末预测分歧巨大 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260813192900073800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "CPI没有给新弹药，金价离下一关还差这个条件！",
